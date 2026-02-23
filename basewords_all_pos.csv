@@ -2279,7 +2279,7 @@ Level,Word,Headword,Headword_flag,POS
 1,freshness,fresh,0,noun
 1,Friday,Friday,1,noun
 1,Fri,Friday,0,noun
-1,fridays,Friday,0,noun
+1,Fridays,Friday,0,noun
 1,friend,friend,1,noun
 1,friendless,friend,0,adjective
 1,friendlier,friend,0,adjective
@@ -2452,7 +2452,7 @@ Level,Word,Headword,Headword_flag,POS
 1,godliness,God,0,noun
 1,godly,God,0,adjective
 1,ungodly,God,0,adjective
-1,gods,God,0,noun
+1,Gods,God,0,noun
 1,gold,gold,1,noun/adjective
 1,golden,gold,0,adjective
 1,good,good,1,noun/adjective/adverb
@@ -3780,7 +3780,7 @@ Level,Word,Headword,Headword_flag,POS
 1,moments,moment,0,noun
 1,Monday,Monday,1,noun
 1,Mon,Monday,0,noun
-1,mondays,Monday,0,noun
+1,Mondays,Monday,0,noun
 1,money,money,1,noun
 1,moneyed,money,0,adjective
 1,moneys,money,0,noun
@@ -5114,7 +5114,7 @@ Level,Word,Headword,Headword_flag,POS
 1,sameness,same,0,noun
 1,samey,same,0,noun/adjective
 1,Saturday,Saturday,1,noun
-1,saturdays,Saturday,0,noun
+1,Saturdays,Saturday,0,noun
 1,save,save,1,noun/verb
 1,saved,save,0,verb/adjective
 1,saver,save,0,noun
@@ -5968,7 +5968,7 @@ Level,Word,Headword,Headword_flag,POS
 1,suns,sun,0,noun/verb
 1,sunshine,sun,0,noun
 1,Sunday,Sunday,1,noun
-1,sundays,Sunday,0,noun
+1,Sundays,Sunday,0,noun
 1,support,support,1,noun/verb
 1,supported,support,0,verb/adjective
 1,supporter,support,0,noun
@@ -6286,7 +6286,7 @@ Level,Word,Headword,Headword_flag,POS
 1,throws,throw,0,noun/verb
 1,Thursday,Thursday,1,noun
 1,thurs,Thursday,0,noun
-1,thursdays,Thursday,0,noun
+1,Thursdays,Thursday,0,noun
 1,tie,tie,1,noun/verb
 1,tied,tie,0,verb/adjective
 1,ties,tie,0,noun/verb
@@ -6499,8 +6499,8 @@ Level,Word,Headword,Headword_flag,POS
 1,untried,try,0,adjective
 1,Tuesday,Tuesday,1,noun
 1,Tue,Tuesday,0,noun
-1,tues,Tuesday,0,noun
-1,tuesdays,Tuesday,0,noun
+1,Tues,Tuesday,0,noun
+1,Tuesdays,Tuesday,0,noun
 1,turn,turn,1,noun/verb
 1,turned,turn,0,verb/adjective
 1,turning,turn,0,noun/verb
@@ -6739,7 +6739,7 @@ Level,Word,Headword,Headword_flag,POS
 1,weathers,weather,0,noun/verb
 1,web,web,1,noun/verb
 1,Wednesday,Wednesday,1,noun
-1,wednesdays,Wednesday,0,noun
+1,Wednesdays,Wednesday,0,noun
 1,week,week,1,noun
 1,midweek,week,0,noun/adverb
 1,midweekly,week,0,adjective
@@ -10222,7 +10222,7 @@ Level,Word,Headword,Headword_flag,POS
 2,jawed,jaw,0,verb/adjective
 2,jawing,jaw,0,verb
 2,jaws,jaw,0,noun/verb
-2,jeans,jeans,1,noun
+2,Jeans,Jeans,1,noun
 2,journey,journey,1,noun/verb
 2,journeyed,journey,0,verb
 2,journeying,journey,0,noun/verb
@@ -13087,7 +13087,7 @@ Level,Word,Headword,Headword_flag,POS
 2,threatens,threat,0,verb
 2,threats,threat,0,noun
 2,unthreatening,threat,0,adjective
-2,thus,thus,1,adverb
+2,Thus,Thus,1,adverb
 2,ticket,ticket,1,noun/verb
 2,ticketless,ticket,0,adjective
 2,tickets,ticket,0,noun/verb
@@ -13449,7 +13449,7 @@ Level,Word,Headword,Headword_flag,POS
 2,wedded,Wed,0,verb/adjective
 2,wedding,Wed,0,noun/verb
 2,weddings,Wed,0,noun
-2,weds,Wed,0,noun/verb
+2,Weds,Wed,0,noun/verb
 2,weed,weed,1,noun/verb
 2,weeded,weed,0,verb
 2,weedier,weed,0,adjective
@@ -14173,7 +14173,7 @@ Level,Word,Headword,Headword_flag,POS
 3,biasing,bias,0,verb
 3,unbiased,bias,0,adjective
 3,Bible,Bible,1,noun
-3,bibles,Bible,0,noun
+3,Bibles,Bible,0,noun
 3,biblical,Bible,0,adjective
 3,bid,bid,1,noun/verb
 3,bidden,bid,0,verb
@@ -14305,7 +14305,7 @@ Level,Word,Headword,Headword_flag,POS
 3,uncategorized,category,0,adjective
 3,Catholic,Catholic,1,noun/adjective
 3,catholicism,Catholic,0,noun
-3,catholics,Catholic,0,noun
+3,Catholics,Catholic,0,noun
 3,cattle,cattle,1,noun
 3,cease,cease,1,noun/verb
 3,ceased,cease,0,verb
@@ -17275,7 +17275,7 @@ Level,Word,Headword,Headword_flag,POS
 3,Mobile,Mobile,1,noun/adjective
 3,immobile,Mobile,0,adjective
 3,immobility,Mobile,0,noun
-3,mobiles,Mobile,0,noun
+3,Mobiles,Mobile,0,noun
 3,mobilities,Mobile,0,noun
 3,mobility,Mobile,0,noun
 3,mode,mode,1,noun
@@ -19746,7 +19746,7 @@ Level,Word,Headword,Headword_flag,POS
 4,ancestral,ancestor,0,adjective
 4,anchor,anchor,1,noun/verb
 4,Anchorage,anchor,0,noun
-4,anchorages,anchor,0,noun
+4,Anchorages,anchor,0,noun
 4,anchored,anchor,0,verb
 4,anchoring,anchor,0,verb
 4,anchors,anchor,0,noun/verb
@@ -28943,7 +28943,7 @@ Level,Word,Headword,Headword_flag,POS
 6,adorns,adorn,0,verb
 6,unadorned,adorn,0,adjective
 6,Advent,Advent,1,noun
-6,advents,Advent,0,noun
+6,Advents,Advent,0,noun
 6,adversary,adversary,1,noun
 6,adversarial,adversary,0,adjective
 6,adversaries,adversary,0,noun
@@ -29398,7 +29398,7 @@ Level,Word,Headword,Headword_flag,POS
 6,Carol,Carol,1,noun/verb
 6,carolled,Carol,0,verb
 6,carolling,Carol,0,verb
-6,carols,Carol,0,noun/verb
+6,Carols,Carol,0,noun/verb
 6,caroler,Carol,0,noun
 6,carolers,Carol,0,noun
 6,carpenter,carpenter,1,noun/verb
@@ -33278,8 +33278,8 @@ Level,Word,Headword,Headword_flag,POS
 7,barricaded,barricade,0,verb/adjective
 7,barricades,barricade,0,noun/verb
 7,barricading,barricade,0,verb
-7,basque,basque,1,noun
-7,basques,basque,0,noun
+7,Basque,Basque,1,noun
+7,Basques,Basque,0,noun
 7,beacon,beacon,1,noun/verb
 7,beacons,beacon,0,noun/verb
 7,beak,beak,1,noun/verb
@@ -34437,7 +34437,7 @@ Level,Word,Headword,Headword_flag,POS
 7,grotesquely,grotesque,0,adverb
 7,grotesqueness,grotesque,0,noun
 7,Guinea,Guinea,1,noun
-7,guineas,Guinea,0,noun
+7,Guineas,Guinea,0,noun
 7,guise,guise,1,noun
 7,guises,guise,0,noun
 7,gull,gull,1,noun/verb
@@ -38103,7 +38103,7 @@ Level,Word,Headword,Headword_flag,POS
 8,gymnastic,gymnastics,0,adjective
 8,gymnasts,gymnastics,0,noun
 8,Halloween,Halloween,1,noun
-8,halloweens,Halloween,0,noun
+8,Halloweens,Halloween,0,noun
 8,hallucinate,hallucinate,1,verb
 8,hallucinated,hallucinate,0,verb
 8,hallucinates,hallucinate,0,verb
@@ -38137,7 +38137,7 @@ Level,Word,Headword,Headword_flag,POS
 8,header,header,1,noun
 8,headers,header,0,noun
 8,Heather,Heather,1,noun
-8,heathers,Heather,0,noun
+8,Heathers,Heather,0,noun
 8,helium,helium,1,noun
 8,hereditary,hereditary,1,adjective
 8,nonhereditary,hereditary,0,adjective
@@ -40256,7 +40256,7 @@ Level,Word,Headword,Headword_flag,POS
 9,aerodynamics,aerodynamic,0,noun
 9,aerosol,aerosol,1,noun
 9,aerosols,aerosol,0,noun
-9,afar,afar,1,adverb
+9,Afar,Afar,1,adverb
 9,affable,affable,1,adjective
 9,affability,affable,0,noun
 9,affably,affable,0,adverb
@@ -41276,8 +41276,8 @@ Level,Word,Headword,Headword_flag,POS
 9,evasiveness,evasive,0,noun
 9,evocative,evocative,1,adjective
 9,evocatively,evocative,0,adverb
-9,ewe,ewe,1,noun
-9,ewes,ewe,0,noun
+9,Ewe,Ewe,1,noun
+9,Ewes,Ewe,0,noun
 9,excruciating,excruciating,1,verb/adjective
 9,excruciatingly,excruciating,0,adverb
 9,excruciate,excruciating,0,verb
@@ -41489,7 +41489,7 @@ Level,Word,Headword,Headword_flag,POS
 9,Garland,Garland,1,noun/verb
 9,garlanded,Garland,0,verb
 9,garlanding,Garland,0,verb
-9,garlands,Garland,0,noun/verb
+9,Garlands,Garland,0,noun/verb
 9,garner,garner,1,noun/verb
 9,garnered,garner,0,verb
 9,garnering,garner,0,verb
@@ -43330,7 +43330,7 @@ Level,Word,Headword,Headword_flag,POS
 9,uteruses,uterus,0,noun
 9,uteri,uterus,0,noun
 9,Valentine,Valentine,1,noun
-9,valentines,Valentine,0,noun
+9,Valentines,Valentine,0,noun
 9,valiant,valiant,1,adjective
 9,valiantly,valiant,0,adverb
 9,veal,veal,1,noun
@@ -44991,7 +44991,7 @@ Level,Word,Headword,Headword_flag,POS
 10,knickers,knickers,1,noun
 10,knicker,knickers,0,noun
 10,Koran,Koran,1,noun
-10,korans,Koran,0,noun
+10,Korans,Koran,0,noun
 10,kosher,kosher,1,noun/adjective
 10,ladle,ladle,1,noun/verb
 10,ladled,ladle,0,verb
@@ -45466,7 +45466,7 @@ Level,Word,Headword,Headword_flag,POS
 10,partridge,partridge,1,noun
 10,partridges,partridge,0,noun
 10,Passover,Passover,1,noun
-10,passovers,Passover,0,noun
+10,Passovers,Passover,0,noun
 10,pate,pate,1,noun
 10,pates,pate,0,noun/verb
 10,patrician,patrician,1,noun/adjective
@@ -45702,7 +45702,7 @@ Level,Word,Headword,Headword_flag,POS
 10,prostration,prostrate,0,noun
 10,prostrations,prostrate,0,noun
 10,Providence,Providence,1,noun
-10,providences,Providence,0,noun
+10,Providences,Providence,0,noun
 10,providential,Providence,0,adjective
 10,provost,provost,1,noun
 10,provosts,provost,0,noun
@@ -46302,7 +46302,7 @@ Level,Word,Headword,Headword_flag,POS
 10,tubers,tuber,0,noun
 10,turban,turban,1,noun
 10,turbans,turban,0,noun
-10,turkeys,turkeys,1,noun
+10,Turkeys,Turkeys,1,noun
 10,tusk,tusk,1,noun/verb
 10,tusks,tusk,0,noun/verb
 10,tuxedo,tuxedo,1,noun
@@ -46502,7 +46502,7 @@ Level,Word,Headword,Headword_flag,POS
 10,yeomen,yeoman,0,noun
 10,yew,yew,1,noun
 10,yews,yew,0,noun
-10,yiddish,yiddish,1,noun
+10,Yiddish,Yiddish,1,noun
 10,yucky,yucky,1,adjective
 10,yock,yucky,0,adjective
 10,yok,yucky,0,adjective
@@ -48299,9 +48299,9 @@ Level,Word,Headword,Headword_flag,POS
 11,nemeses,nemesis,0,noun
 11,neonatal,neonatal,1,adjective
 11,Nepal,Nepal,1,noun
-11,nepalese,Nepal,0,noun/adjective
+11,Nepalese,Nepal,0,noun/adjective
 11,Nepali,Nepal,0,noun/adjective
-11,nepalis,Nepal,0,noun
+11,Nepalis,Nepal,0,noun
 11,nervosa,nervosa,1,noun
 11,neuter,neuter,1,noun/verb/adjective
 11,neutered,neuter,0,verb/adjective
@@ -52507,7 +52507,7 @@ Level,Word,Headword,Headword_flag,POS
 13,Aurora,Aurora,1,noun
 13,aurorae,Aurora,0,noun
 13,auroral,Aurora,0,adjective
-13,auroras,Aurora,0,noun
+13,Auroras,Aurora,0,noun
 13,aurorean,Aurora,0,adjective
 13,automaton,automaton,1,noun
 13,automatons,automaton,0,noun
@@ -52533,8 +52533,8 @@ Level,Word,Headword,Headword_flag,POS
 13,bangers,bangers,1,noun
 13,banger,bangers,0,noun
 13,Bangladesh,Bangladesh,1,noun
-13,bangladeshi,Bangladesh,0,noun/adjective
-13,bangladeshis,Bangladesh,0,noun
+13,Bangladeshi,Bangladesh,0,noun/adjective
+13,Bangladeshis,Bangladesh,0,noun
 13,bankroll,bankroll,1,noun/verb
 13,bankrolled,bankroll,0,verb
 13,bankrolling,bankroll,0,verb
@@ -54766,7 +54766,7 @@ Level,Word,Headword,Headword_flag,POS
 13,willfully,wilful,0,adverb
 13,willfulness,wilful,0,noun
 13,willy,willy,1,adverb
-13,willies,willy,0,noun
+13,Willies,willy,0,noun
 13,winnow,winnow,1,noun/verb
 13,winnowed,winnow,0,verb
 13,winnower,winnow,0,noun/verb
@@ -55244,8 +55244,8 @@ Level,Word,Headword,Headword_flag,POS
 14,shammy,chamois,0,noun
 14,chard,chard,1,noun
 14,chartreuse,chartreuse,1,noun/adjective
-14,chechen,chechen,1,noun/adjective
-14,chechens,chechen,0,noun
+14,Chechen,Chechen,1,noun/adjective
+14,Chechens,Chechen,0,noun
 14,chenille,chenille,1,noun
 14,chickpea,chickpea,1,noun
 14,chickpeas,chickpea,0,noun
@@ -58285,7 +58285,7 @@ Level,Word,Headword,Headword_flag,POS
 15,hake,hake,1,noun
 15,halfback,halfback,1,noun
 15,halfbacks,halfback,0,noun
-15,hausa,hausa,1,noun
+15,Hausa,Hausa,1,noun
 15,hectors,hectors,1,noun/verb
 15,hectored,hectors,0,verb
 15,hectoring,hectors,0,verb
@@ -60795,7 +60795,7 @@ Level,Word,Headword,Headword_flag,POS
 16,maladministration,maladministration,1,noun
 16,malefactor,malefactor,1,noun
 16,malefactors,malefactor,0,noun
-16,malian,malian,1,noun/adjective
+16,Malian,Malian,1,noun/adjective
 16,malinger,malinger,1,verb
 16,malingered,malinger,0,verb
 16,malingerer,malinger,0,noun
@@ -61569,7 +61569,7 @@ Level,Word,Headword,Headword_flag,POS
 16,topos,topos,1,noun
 16,topoi,topos,0,noun
 16,Torah,Torah,1,noun
-16,torahs,Torah,0,noun
+16,Torahs,Torah,0,noun
 16,toroid,toroid,1,noun
 16,toroidal,toroid,0,adjective
 16,toroids,toroid,0,noun
@@ -61605,7 +61605,7 @@ Level,Word,Headword,Headword_flag,POS
 16,trig,trig,1,noun/adjective
 16,trigs,trig,0,noun
 16,trigonometry,trigonometry,1,noun
-16,trinidadian,trinidadian,1,noun/adjective
+16,Trinidadian,Trinidadian,1,noun/adjective
 16,trousseau,trousseau,1,noun
 16,trousseaus,trousseau,0,noun
 16,trousseaux,trousseau,0,noun
@@ -62141,7 +62141,7 @@ Level,Word,Headword,Headword_flag,POS
 17,chamfering,chamfer,0,verb
 17,chamfers,chamfer,0,noun/verb
 17,Chandler,Chandler,1,noun
-17,chandlers,Chandler,0,noun
+17,Chandlers,Chandler,0,noun
 17,chandlery,Chandler,0,noun
 17,chanteuse,chanteuse,1,noun/verb
 17,chanteuses,chanteuse,0,verb
@@ -63848,9 +63848,9 @@ Level,Word,Headword,Headword_flag,POS
 18,derringers,derringer,0,noun
 18,dotterel,dotterel,1,noun
 18,dotterels,dotterel,0,noun
-18,esperanto,esperanto,1,noun
-18,esperantist,esperanto,0,noun
-18,esperantists,esperanto,0,noun
+18,Esperanto,Esperanto,1,noun
+18,esperantist,Esperanto,0,noun
+18,esperantists,Esperanto,0,noun
 18,glister,glister,1,noun
 18,glisters,glister,0,noun
 18,jazzercise,jazzercise,1,verb
@@ -65973,7 +65973,7 @@ Level,Word,Headword,Headword_flag,POS
 19,behoves,behove,0,verb
 19,behoving,behove,0,verb
 19,bejewelled,bejewelled,1,verb
-19,belizean,belizean,1,noun
+19,Belizean,Belizean,1,noun
 19,belter,belter,1,noun
 19,belters,belter,0,noun
 19,bento,bento,1,noun
@@ -66621,7 +66621,7 @@ Level,Word,Headword,Headword_flag,POS
 19,grosgrains,grosgrain,0,noun
 19,gruyere,gruyere,1,noun
 19,guar,guar,1,noun
-19,guarani,guarani,1,noun
+19,Guarani,Guarani,1,noun
 19,gung,gung,1,noun
 19,guttersnipe,guttersnipe,1,noun
 19,guttersnipes,guttersnipe,0,noun
@@ -69280,7 +69280,7 @@ Level,Word,Headword,Headword_flag,POS
 20,sutras,sutra,0,noun
 20,swansong,swansong,1,noun
 20,swansongs,swansong,0,noun
-20,swazi,swazi,1,noun/adjective
+20,Swazi,Swazi,1,noun/adjective
 20,swidden,swidden,1,noun
 20,swiddens,swidden,0,noun
 20,swiftlet,swiftlet,1,noun
@@ -70758,7 +70758,7 @@ Level,Word,Headword,Headword_flag,POS
 21,pyroxene,pyroxene,1,noun
 21,pyroxenic,pyroxene,0,adjective
 21,pyroxenoid,pyroxene,0,noun
-21,qatari,qatari,1,noun/adjective
+21,Qatari,Qatari,1,noun/adjective
 21,quadraphonic,quadraphonic,1,adjective
 21,quadraphonicly,quadraphonic,0,adverb
 21,quadraphonics,quadraphonic,0,adjective
@@ -71277,7 +71277,7 @@ Level,Word,Headword,Headword_flag,POS
 22,alkylating,alkylate,0,verb
 22,altazimuth,altazimuth,1,noun
 22,ambergris,ambergris,1,noun
-22,amharic,amharic,1,noun/adjective
+22,Amharic,Amharic,1,noun/adjective
 22,amma,amma,1,noun
 22,anchorite,anchorite,1,noun
 22,anchorites,anchorite,0,noun
@@ -74375,7 +74375,7 @@ Level,Word,Headword,Headword_flag,POS
 24,brattle,brattle,1,verb
 24,brattles,brattle,0,verb
 24,braw,braw,1,adjective
-24,brazils,brazils,1,noun
+24,Brazils,Brazils,1,noun
 24,bric,bric,1,adjective
 24,briony,briony,1,noun
 24,brochette,brochette,1,noun
@@ -74959,7 +74959,7 @@ Level,Word,Headword,Headword_flag,POS
 24,lollo,lollo,1,noun
 24,loma,loma,1,noun
 24,lordosis,lordosis,1,noun
-24,loris,loris,1,noun
+24,Loris,Loris,1,noun
 24,lorn,lorn,1,noun
 24,lota,lota,1,noun
 24,lotah,lota,0,noun
@@ -75723,8 +75723,8 @@ Level,Word,Headword,Headword_flag,POS
 25,axletrees,axletree,0,noun
 25,axolotl,axolotl,1,noun
 25,axolotls,axolotl,0,noun
-25,aymara,aymara,1,noun
-25,aymaran,aymara,0,noun
+25,Aymara,Aymara,1,noun
+25,aymaran,Aymara,0,noun
 25,azidothymidine,azidothymidine,1,noun
 25,bacitracin,bacitracin,1,noun
 25,backsheesh,backsheesh,1,noun
@@ -80987,7 +80987,7 @@ Level,Word,Headword,Headword_flag,POS
 31,humason,humason,1,noun
 31,Jerozolimska,Jerozolimska,1,proper noun
 31,jongs,jongs,1,noun
-31,kongo,kongo,1,noun
+31,Kongo,Kongo,1,noun
 31,leslies,leslies,1,noun/verb
 31,Orka,Orka,1,proper noun
 31,platia,platia,1,noun
@@ -81267,7 +81267,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Adamec,Adamec,1,proper noun
 31,adamly,adamly,1,adverb
 31,adamowlsky,adamowlsky,1,noun/verb
-31,adams,adams,1,noun
+31,Adams,Adams,1,noun
 31,adamson,adamson,1,noun
 31,Adanto,Adanto,1,proper noun
 31,adarene,adarene,1,noun
@@ -81344,10 +81344,10 @@ Level,Word,Headword,Headword_flag,POS
 31,Afgan,Afgan,1,proper noun
 31,afganistan,afganistan,1,noun/verb/adjective
 31,Afghanistan,Afghanistan,1,noun
-31,afghan,Afghanistan,0,noun/adjective
+31,Afghan,Afghanistan,0,noun/adjective
 31,afghani,Afghanistan,0,noun/adjective
 31,afghanis,Afghanistan,0,noun
-31,afghans,Afghanistan,0,noun
+31,Afghans,Afghanistan,0,noun
 31,Afhq,Afhq,1,proper noun
 31,Afis,Afis,1,proper noun
 31,Afolabi,Afolabi,1,proper noun
@@ -81363,7 +81363,7 @@ Level,Word,Headword,Headword_flag,POS
 31,afrikaan,afrikaner,0,noun/adjective
 31,afrikaaner,afrikaner,0,adjective
 31,afrikaaners,afrikaner,0,noun/adjective
-31,afrikaans,afrikaner,0,noun/adjective
+31,Afrikaans,afrikaner,0,noun/adjective
 31,afrikanerdom,afrikaner,0,noun
 31,afrikaners,afrikaner,0,noun
 31,Afrose,Afrose,1,proper noun
@@ -81497,7 +81497,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Alban,Alban,1,proper noun
 31,Albania,Albania,1,noun
 31,Albanian,Albania,0,noun/adjective
-31,albanians,Albania,0,noun
+31,Albanians,Albania,0,noun
 31,albans,albans,1,noun
 31,albany,albany,1,noun
 31,albeck,albeck,1,noun
@@ -81509,7 +81509,7 @@ Level,Word,Headword,Headword_flag,POS
 31,alberti,alberti,1,noun
 31,Albertina,Albertina,1,proper noun
 31,Alberto,Alberto,1,proper noun
-31,alberts,alberts,1,noun
+31,Alberts,Alberts,1,noun
 31,Albi,Albi,1,proper noun
 31,Albie,Albie,1,proper noun
 31,Albini,Albini,1,proper noun
@@ -81589,8 +81589,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Algazabia,Algazabia,1,proper noun
 31,alger,alger,1,noun
 31,Algeria,Algeria,1,noun
-31,algerian,Algeria,0,noun/adjective
-31,algerians,Algeria,0,noun
+31,Algerian,Algeria,0,noun/adjective
+31,Algerians,Algeria,0,noun
 31,algernon,algernon,1,adverb
 31,algiers,algiers,1,noun
 31,Algoma,Algoma,1,proper noun
@@ -81750,7 +81750,7 @@ Level,Word,Headword,Headword_flag,POS
 31,americanize,america,0,verb
 31,americanized,america,0,verb
 31,americanizing,america,0,verb
-31,americans,america,0,noun
+31,Americans,america,0,noun
 31,americas,americas,1,noun
 31,americus,americus,1,noun
 31,amerindian,amerindian,1,noun
@@ -81830,7 +81830,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Andretti,Andretti,1,proper noun
 31,Andrew,Andrew,1,noun
 31,andrewes,andrewes,1,noun
-31,andrews,andrews,1,noun
+31,Andrews,Andrews,1,noun
 31,andries,andries,1,noun
 31,andriessen,andriessen,1,noun
 31,andromache,andromache,1,noun/verb
@@ -81872,8 +81872,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Anglo,Anglo,1,proper noun
 31,Anglos,Anglo,0,proper noun
 31,Angola,Angola,1,noun
-31,angolan,Angola,0,noun/adjective
-31,angolans,Angola,0,noun
+31,Angolan,Angola,0,noun/adjective
+31,Angolans,Angola,0,noun
 31,angolese,angolese,1,noun
 31,anguilla,anguilla,1,noun
 31,angus,angus,1,noun
@@ -81902,7 +81902,7 @@ Level,Word,Headword,Headword_flag,POS
 31,annandale,annandale,1,noun
 31,annapolis,annapolis,1,noun
 31,annapurna,annapurna,1,noun
-31,annas,annas,1,noun
+31,Annas,Annas,1,noun
 31,Annaud,Annaud,1,proper noun
 31,anne,anne,1,noun
 31,Anneka,Anneka,1,proper noun
@@ -82074,10 +82074,10 @@ Level,Word,Headword,Headword_flag,POS
 31,Arf,Arf,1,proper noun
 31,Arfur,Arfur,1,proper noun
 31,Argentina,Argentina,1,noun
-31,argentine,Argentina,0,noun/adjective
+31,Argentine,Argentina,0,noun/adjective
 31,argentinian,Argentina,0,noun/adjective
 31,argentinians,Argentina,0,noun
-31,argentines,argentines,1,noun
+31,Argentines,Argentines,1,noun
 31,Argento,Argento,1,proper noun
 31,Arger,Arger,1,proper noun
 31,arginine,arginine,1,noun
@@ -82135,7 +82135,7 @@ Level,Word,Headword,Headword_flag,POS
 31,armani,armani,1,noun
 31,Armenia,Armenia,1,noun
 31,Armenian,Armenia,0,noun/adjective
-31,armenians,Armenia,0,noun
+31,Armenians,Armenia,0,noun
 31,arminian,arminian,1,noun/adjective
 31,arminianism,arminian,0,noun
 31,arminianist,arminian,0,noun
@@ -82222,7 +82222,7 @@ Level,Word,Headword,Headword_flag,POS
 31,ashington,ashington,1,noun
 31,Ashley,Ashley,1,noun
 31,ashleypitt,ashleypitt,1,noun
-31,ashleys,ashleys,1,noun
+31,Ashleys,Ashleys,1,noun
 31,ashman,ashman,1,noun/verb
 31,ashmolean,ashmolean,1,noun/verb/adjective
 31,ashmore,ashmore,1,noun/adjective/adverb
@@ -82371,11 +82371,11 @@ Level,Word,Headword,Headword_flag,POS
 31,aussie,Australia,0,noun
 31,aussies,Australia,0,noun
 31,aust,Australia,0,noun
-31,australian,Australia,0,noun/adjective
-31,australians,Australia,0,noun
+31,Australian,Australia,0,noun/adjective
+31,Australians,Australia,0,noun
 31,Austria,Austria,1,noun
-31,austrian,Austria,0,noun/adjective
-31,austrians,Austria,0,noun
+31,Austrian,Austria,0,noun/adjective
+31,Austrians,Austria,0,noun
 31,autocar,autocar,1,noun
 31,autodesk,autodesk,1,noun
 31,autonomen,autonomen,1,noun/verb
@@ -82447,7 +82447,7 @@ Level,Word,Headword,Headword_flag,POS
 31,azanian,azanian,1,adjective
 31,Azerbaijan,Azerbaijan,1,noun
 31,Azerbaijani,Azerbaijan,0,noun/adjective
-31,azerbaijanis,Azerbaijan,0,noun
+31,Azerbaijanis,Azerbaijan,0,noun
 31,azeri,azeri,1,noun
 31,Aziz,Aziz,1,proper noun
 31,azkaban,azkaban,1,noun/verb
@@ -82534,7 +82534,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Bahadur,Bahadur,1,proper noun
 31,Bahama,Bahama,1,proper noun
 31,Bahamas,Bahamas,1,noun
-31,bahamian,bahamian,1,noun/adjective
+31,Bahamian,Bahamian,1,noun/adjective
 31,Bahat,Bahat,1,proper noun
 31,Bahi,Bahi,1,proper noun
 31,Bahia,Bahia,1,proper noun
@@ -82699,7 +82699,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Barak,Barak,1,proper noun
 31,baraka,baraka,1,noun
 31,Barbacoa,Barbacoa,1,proper noun
-31,barbadian,barbadian,1,noun/adjective
+31,Barbadian,Barbadian,1,noun/adjective
 31,Barbados,Barbados,1,noun
 31,Barbara,Barbara,1,noun
 31,Barbaracraig,Barbaracraig,1,proper noun
@@ -83037,8 +83037,8 @@ Level,Word,Headword,Headword_flag,POS
 31,belet,belet,1,noun
 31,belfast,belfast,1,noun
 31,Belgium,Belgium,1,noun
-31,belgian,Belgium,0,noun/adjective
-31,belgians,Belgium,0,noun
+31,Belgian,Belgium,0,noun/adjective
+31,Belgians,Belgium,0,noun
 31,belgrade,belgrade,1,noun
 31,belgrano,belgrano,1,noun
 31,belgrave,belgrave,1,noun/verb/adjective
@@ -83122,7 +83122,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Benitez,Benitez,1,proper noun
 31,Benito,Benito,1,proper noun
 31,Benjamin,Benjamin,1,noun
-31,benjamins,benjamins,1,noun
+31,Benjamins,Benjamins,1,noun
 31,Benji,Benji,1,proper noun
 31,Benjy,Benjy,1,proper noun
 31,Benn,Benn,1,proper noun
@@ -83652,8 +83652,8 @@ Level,Word,Headword,Headword_flag,POS
 31,bolitonovs,bolitonov,0,noun
 31,bolivar,bolivar,1,noun
 31,Bolivia,Bolivia,1,noun
-31,bolivian,Bolivia,0,noun/adjective
-31,bolivians,Bolivia,0,noun
+31,Bolivian,Bolivia,0,noun/adjective
+31,Bolivians,Bolivia,0,noun
 31,bolker,bolker,1,adjective
 31,bolland,bolland,1,noun/verb
 31,bollinger,bollinger,1,verb
@@ -83746,7 +83746,7 @@ Level,Word,Headword,Headword_flag,POS
 31,boskin,boskin,1,noun/adjective
 31,Bosnia,Bosnia,1,noun
 31,Bosnian,Bosnia,0,adjective
-31,bosnians,Bosnia,0,noun
+31,Bosnians,Bosnia,0,noun
 31,bosphorus,bosphorus,1,noun
 31,bossman,bossman,1,noun/verb
 31,Bostock,Bostock,1,proper noun
@@ -83932,8 +83932,8 @@ Level,Word,Headword,Headword_flag,POS
 31,brazauskas,brazauskas,1,noun
 31,brazelton,brazelton,1,noun
 31,Brazil,Brazil,1,noun
-31,brazilian,Brazil,0,noun/adjective
-31,brazilians,Brazil,0,noun
+31,Brazilian,Brazil,0,noun/adjective
+31,Brazilians,Brazil,0,noun
 31,brazzaville,brazzaville,1,noun
 31,Brca,Brca,1,proper noun
 31,breakspear,breakspear,1,noun/verb
@@ -83968,7 +83968,7 @@ Level,Word,Headword,Headword_flag,POS
 31,brest,brest,1,noun
 31,Bret,Bret,1,proper noun
 31,bretherick,bretherick,1,noun/verb
-31,breton,breton,1,noun
+31,Breton,Breton,1,noun
 31,Brett,Brett,1,proper noun
 31,bretton,bretton,1,noun
 31,breuer,breuer,1,noun
@@ -84131,7 +84131,7 @@ Level,Word,Headword,Headword_flag,POS
 31,brubeck,brubeck,1,noun
 31,Bruce,Bruce,1,noun
 31,brucella,brucella,1,noun
-31,bruces,bruces,1,noun
+31,Bruces,Bruces,1,noun
 31,Brucie,Brucie,1,proper noun
 31,bruckheimer,bruckheimer,1,adjective
 31,bruckner,bruckner,1,noun
@@ -84207,10 +84207,10 @@ Level,Word,Headword,Headword_flag,POS
 31,Budapest,Budapest,1,noun
 31,Budd,Budd,1,proper noun
 31,Buddha,Buddha,1,noun
-31,buddhas,Buddha,0,noun
+31,Buddhas,Buddha,0,noun
 31,Buddhism,Buddha,0,noun
 31,Buddhist,Buddha,0,noun/adjective
-31,buddhists,Buddha,0,noun
+31,Buddhists,Buddha,0,noun
 31,buddie,buddie,1,noun/verb
 31,buddiga,buddiga,1,noun
 31,budgen,budgen,1,noun
@@ -84243,7 +84243,7 @@ Level,Word,Headword,Headword_flag,POS
 31,bulgari,bulgari,1,noun
 31,Bulgaria,Bulgaria,1,noun
 31,Bulgarian,Bulgaria,0,noun/adjective
-31,bulgarians,Bulgaria,0,noun
+31,Bulgarians,Bulgaria,0,noun
 31,Bulger,Bulger,1,proper noun
 31,bullcrap,bullcrap,1,noun/verb
 31,Bullen,Bullen,1,proper noun
@@ -84299,7 +84299,7 @@ Level,Word,Headword,Headword_flag,POS
 31,burley,burley,1,noun
 31,burlington,burlington,1,noun
 31,burma,burma,1,noun
-31,burmese,burma,0,noun/adjective
+31,Burmese,burma,0,noun/adjective
 31,Burmah,Burmah,1,proper noun
 31,burman,burman,1,noun/verb
 31,burnden,burnden,1,noun
@@ -84488,8 +84488,8 @@ Level,Word,Headword,Headword_flag,POS
 31,camberwell,camberwell,1,noun/verb/adjective/adverb
 31,Cambini,Cambini,1,proper noun
 31,Cambodia,Cambodia,1,noun
-31,cambodian,Cambodia,0,noun/adjective
-31,cambodians,Cambodia,0,noun
+31,Cambodian,Cambodia,0,noun/adjective
+31,Cambodians,Cambodia,0,noun
 31,camborne,camborne,1,verb
 31,cambria,cambria,1,noun
 31,cambrian,cambrian,1,noun/adjective
@@ -84536,8 +84536,8 @@ Level,Word,Headword,Headword_flag,POS
 31,canaanites,canaanite,0,noun
 31,Canacona,Canacona,1,proper noun
 31,Canada,Canada,1,noun
-31,canadian,Canada,0,noun/adjective
-31,canadians,Canada,0,noun
+31,Canadian,Canada,0,noun/adjective
+31,Canadians,Canada,0,noun
 31,Canaletto,Canaletto,1,proper noun
 31,canaris,canaris,1,noun
 31,canavan,canavan,1,noun
@@ -84771,9 +84771,9 @@ Level,Word,Headword,Headword_flag,POS
 31,Castroville,Castroville,1,proper noun
 31,Castus,Castus,1,proper noun
 31,caswell,caswell,1,noun/verb/adjective/adverb
-31,catalan,catalan,1,noun/adjective
+31,Catalan,Catalan,1,noun/adjective
 31,catalano,catalano,1,noun
-31,catalans,catalans,1,noun
+31,Catalans,Catalans,1,noun
 31,Catalina,Catalina,1,proper noun
 31,catalonia,catalonia,1,noun
 31,catalonian,catalonian,1,adjective
@@ -85121,9 +85121,9 @@ Level,Word,Headword,Headword_flag,POS
 31,childress,childress,1,noun/verb/adjective
 31,childs,childs,1,noun
 31,Chile,Chile,1,noun
-31,chilean,Chile,0,noun/adjective
-31,chileans,Chile,0,noun
-31,chiles,chiles,1,noun
+31,Chilean,Chile,0,noun/adjective
+31,Chileans,Chile,0,noun
+31,Chiles,Chiles,1,noun
 31,chillington,chillington,1,noun
 31,chillingworth,chillingworth,1,noun/adjective
 31,chilperic,chilperic,1,adjective
@@ -85135,7 +85135,7 @@ Level,Word,Headword,Headword_flag,POS
 31,China,China,1,noun
 31,chinaman,China,0,noun
 31,chinamen,China,0,noun
-31,chinas,China,0,noun
+31,Chinas,China,0,noun
 31,Chinese,China,0,noun/adjective
 31,Ching,Ching,1,proper noun
 31,chingford,chingford,1,noun/verb
@@ -85201,7 +85201,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Christ,Christ,1,noun
 31,Christian,Christ,0,noun/adjective
 31,Christianity,Christ,0,noun
-31,christians,Christ,0,noun
+31,Christians,Christ,0,noun
 31,Christa,Christa,1,proper noun
 31,christabel,christabel,1,noun
 31,christchurch,christchurch,1,noun
@@ -85521,8 +85521,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Colne,Colne,1,proper noun
 31,colombes,colombes,1,noun/verb
 31,Colombia,Colombia,1,noun
-31,colombian,Colombia,0,noun/adjective
-31,colombians,Colombia,0,noun
+31,Colombian,Colombia,0,noun/adjective
+31,Colombians,Colombia,0,noun
 31,Colombo,Colombo,1,noun
 31,colorado,colorado,1,noun
 31,Colquhoun,Colquhoun,1,proper noun
@@ -85575,7 +85575,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Cong,Cong,1,proper noun
 31,congleton,congleton,1,noun
 31,Congo,Congo,1,noun
-31,congolese,congolese,1,noun/adjective
+31,Congolese,Congolese,1,noun/adjective
 31,Conigre,Conigre,1,proper noun
 31,Coningsby,Coningsby,1,proper noun
 31,Coniscliffe,Coniscliffe,1,proper noun
@@ -85706,7 +85706,7 @@ Level,Word,Headword,Headword_flag,POS
 31,cornhill,cornhill,1,noun/verb
 31,corning,corning,1,verb
 31,corningstone,corningstone,1,noun/verb/adjective
-31,cornish,cornish,1,noun/adjective
+31,Cornish,Cornish,1,noun/adjective
 31,cornmill,cornmill,1,noun/verb
 31,cornwall,cornwall,1,noun
 31,cornwallis,cornwallis,1,noun
@@ -85720,7 +85720,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Corry,Corry,1,proper noun
 31,corsham,corsham,1,noun/verb/adjective
 31,corsica,corsica,1,noun
-31,corsican,corsican,1,adjective
+31,Corsican,Corsican,1,adjective
 31,Cortaulds,Cortaulds,1,proper noun
 31,cortes,cortes,1,noun
 31,cortez,cortez,1,noun
@@ -85869,7 +85869,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Creb,Creb,1,proper noun
 31,credal,credal,1,adjective
 31,crediton,crediton,1,noun
-31,cree,cree,1,noun
+31,Cree,Cree,1,noun
 31,creekmore,creekmore,1,noun/adjective/adverb
 31,creely,creely,1,adverb
 31,creggan,creggan,1,verb
@@ -85913,7 +85913,7 @@ Level,Word,Headword,Headword_flag,POS
 31,croat,croat,1,noun
 31,Croatia,croat,0,noun
 31,Croatian,croat,0,noun/adjective
-31,croatians,croat,0,noun
+31,Croatians,croat,0,noun
 31,croats,croat,0,noun
 31,Croce,Croce,1,proper noun
 31,crocker,crocker,1,adjective
@@ -85987,8 +85987,8 @@ Level,Word,Headword,Headword_flag,POS
 31,ctc,ctc,1,noun
 31,Ctl,Ctl,1,proper noun
 31,Cuba,Cuba,1,noun
-31,cuban,Cuba,0,noun/adjective
-31,cubans,Cuba,0,noun
+31,Cuban,Cuba,0,noun/adjective
+31,Cubans,Cuba,0,noun
 31,Cubitt,Cubitt,1,proper noun
 31,cuckmere,cuckmere,1,noun/adjective
 31,cuckney,cuckney,1,noun
@@ -86068,8 +86068,8 @@ Level,Word,Headword,Headword_flag,POS
 31,cyprian,cyprian,1,noun/adjective
 31,cyprio,cyprio,1,noun
 31,Cyprus,Cyprus,1,noun
-31,cypriot,Cyprus,0,noun/adjective
-31,cypriots,Cyprus,0,noun
+31,Cypriot,Cyprus,0,noun/adjective
+31,Cypriots,Cyprus,0,noun
 31,cyrano,cyrano,1,noun
 31,cyrene,cyrene,1,noun
 31,cyril,cyril,1,noun
@@ -86081,7 +86081,7 @@ Level,Word,Headword,Headword_flag,POS
 31,czechoslovakian,czechoslovakia,0,noun/adjective
 31,czechoslovakians,czechoslovakia,0,noun
 31,czechoslovaks,czechoslovakia,0,noun
-31,czechs,czechoslovakia,0,noun
+31,Czechs,czechoslovakia,0,noun
 31,czerny,czerny,1,noun
 31,Czervik,Czervik,1,proper noun
 31,Czolgosz,Czolgosz,1,proper noun
@@ -86185,7 +86185,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Daniel,Daniel,1,noun
 31,Daniele,Daniele,1,proper noun
 31,Danielle,Danielle,1,proper noun
-31,daniels,daniels,1,noun
+31,Daniels,Daniels,1,noun
 31,Danilov,Danilov,1,proper noun
 31,Dann,Dann,1,proper noun
 31,Dannehower,Dannehower,1,proper noun
@@ -86278,7 +86278,7 @@ Level,Word,Headword,Headword_flag,POS
 31,David,David,1,noun
 31,Davide,Davide,1,proper noun
 31,davidoff,davidoff,1,verb
-31,davids,davids,1,noun
+31,Davids,Davids,1,noun
 31,davidson,davidson,1,noun
 31,Davie,Davie,1,proper noun
 31,davies,davies,1,noun
@@ -86764,8 +86764,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Dominguez,Dominguez,1,proper noun
 31,dominic,dominic,1,noun
 31,Dominica,Dominica,1,noun
-31,dominican,dominican,1,noun/adjective
-31,dominicans,dominican,0,noun
+31,Dominican,Dominican,1,noun/adjective
+31,Dominicans,Dominican,0,noun
 31,dominick,dominick,1,noun
 31,dominique,dominique,1,noun
 31,Domner,Domner,1,proper noun
@@ -86865,7 +86865,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Dougie,Dougie,1,proper noun
 31,Douglas,Douglas,1,noun
 31,douglases,douglases,1,noun
-31,douglass,douglass,1,noun
+31,Douglass,Douglass,1,noun
 31,doulton,doulton,1,noun
 31,Dounreay,Dounreay,1,proper noun
 31,doushan,doushan,1,noun
@@ -87101,8 +87101,8 @@ Level,Word,Headword,Headword_flag,POS
 31,dustin,dustin,1,noun/verb
 31,Dusu,Dusu,1,proper noun
 31,Dutch,Dutch,1,noun/adjective
-31,dutchman,Dutch,0,noun
-31,dutchmen,Dutch,0,noun
+31,Dutchman,Dutch,0,noun
+31,Dutchmen,Dutch,0,noun
 31,dutton,dutton,1,noun
 31,duval,duval,1,adjective
 31,duvalier,duvalier,1,noun
@@ -87152,7 +87152,7 @@ Level,Word,Headword,Headword_flag,POS
 31,easson,easson,1,noun
 31,eastbourne,eastbourne,1,noun
 31,Easter,Easter,1,noun
-31,easters,Easter,0,noun
+31,Easters,Easter,0,noun
 31,easterbrook,easterbrook,1,noun/verb
 31,easterhouse,easterhouse,1,noun/verb
 31,eastham,eastham,1,noun/verb
@@ -87248,7 +87248,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Edward,Edward,1,noun
 31,edwardian,edwardian,1,noun/adjective
 31,edwardians,edwardian,0,noun
-31,edwards,edwards,1,noun
+31,Edwards,Edwards,1,noun
 31,edwin,edwin,1,noun
 31,Edwina,Edwina,1,proper noun
 31,Eea,Eea,1,proper noun
@@ -87275,8 +87275,8 @@ Level,Word,Headword,Headword_flag,POS
 31,egstrom,egstrom,1,noun
 31,Egt,Egt,1,proper noun
 31,Egypt,Egypt,1,noun
-31,egyptian,Egypt,0,noun/adjective
-31,egyptians,Egypt,0,noun
+31,Egyptian,Egypt,0,noun/adjective
+31,Egyptians,Egypt,0,noun
 31,Egypte,Egypte,1,proper noun
 31,ehemann,ehemann,1,noun
 31,ehlers,ehlers,1,noun
@@ -87537,8 +87537,8 @@ Level,Word,Headword,Headword_flag,POS
 31,eris,eris,1,noun
 31,Erith,Erith,1,proper noun
 31,Eritrea,Eritrea,1,noun
-31,eritrean,Eritrea,0,noun/adjective
-31,eritreans,Eritrea,0,noun
+31,Eritrean,Eritrea,0,noun/adjective
+31,Eritreans,Eritrea,0,noun
 31,Erlich,Erlich,1,proper noun
 31,ernakulam,ernakulam,1,noun/verb
 31,erne,erne,1,noun
@@ -87601,7 +87601,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Eston,Eston,1,proper noun
 31,Estonia,Estonia,1,noun
 31,Estonian,Estonia,0,noun/adjective
-31,estonians,Estonia,0,noun
+31,Estonians,Estonia,0,noun
 31,Estoril,Estoril,1,proper noun
 31,Estrella,Estrella,1,proper noun
 31,estrich,estrich,1,noun/adjective
@@ -87610,8 +87610,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Ethel,Ethel,1,proper noun
 31,etheline,etheline,1,noun/verb
 31,Ethiopia,Ethiopia,1,noun
-31,ethiopian,Ethiopia,0,noun/adjective
-31,ethiopians,Ethiopia,0,noun
+31,Ethiopian,Ethiopia,0,noun/adjective
+31,Ethiopians,Ethiopia,0,noun
 31,etienne,etienne,1,noun
 31,Etinger,Etinger,1,proper noun
 31,etna,etna,1,noun
@@ -87828,7 +87828,7 @@ Level,Word,Headword,Headword_flag,POS
 31,farnsworth,farnsworth,1,noun/adjective
 31,faro,faro,1,noun
 31,Faroe,Faroe,1,proper noun
-31,faroese,faroese,1,noun
+31,Faroese,Faroese,1,noun
 31,Faroo,Faroo,1,proper noun
 31,Farouk,Farouk,1,proper noun
 31,Farquaad,Farquaad,1,proper noun
@@ -88007,8 +88007,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Figaro,Figaro,1,proper noun
 31,figone,figone,1,noun/adjective
 31,Fiji,Fiji,1,noun
-31,fijian,Fiji,0,noun/adjective
-31,fijians,Fiji,0,noun
+31,Fijian,Fiji,0,noun/adjective
+31,Fijians,Fiji,0,noun
 31,Fike,Fike,1,proper noun
 31,filbert,filbert,1,noun
 31,filene,filene,1,noun
@@ -88286,11 +88286,11 @@ Level,Word,Headword,Headword_flag,POS
 31,francais,francais,1,noun
 31,France,France,1,noun
 31,French,France,0,noun/verb/adjective
-31,frenchman,France,0,noun
-31,frenchmen,France,0,noun
-31,frenchwoman,France,0,noun
-31,frenchwomen,France,0,noun
-31,frances,frances,1,noun
+31,Frenchman,France,0,noun
+31,Frenchmen,France,0,noun
+31,Frenchwoman,France,0,noun
+31,Frenchwomen,France,0,noun
+31,Frances,Frances,1,noun
 31,Francesca,Francesca,1,proper noun
 31,Francesco,Francesco,1,proper noun
 31,franchine,franchine,1,noun/verb
@@ -88759,7 +88759,7 @@ Level,Word,Headword,Headword_flag,POS
 31,geoffrey,geoffrey,1,noun
 31,Georg,Georg,1,proper noun
 31,George,George,1,noun
-31,georges,georges,1,noun
+31,Georges,Georges,1,noun
 31,georgetown,georgetown,1,noun
 31,georgette,georgette,1,noun
 31,Georgi,Georgi,1,proper noun
@@ -88767,7 +88767,7 @@ Level,Word,Headword,Headword_flag,POS
 31,georgiade,georgiade,1,noun
 31,georgiades,georgiades,1,noun
 31,Georgian,Georgian,1,noun/adjective
-31,georgians,Georgian,0,noun
+31,Georgians,Georgian,0,noun
 31,georgiana,georgiana,1,noun
 31,Georgie,Georgie,1,proper noun
 31,Georgina,Georgina,1,proper noun
@@ -88799,8 +88799,8 @@ Level,Word,Headword,Headword_flag,POS
 31,German,Germany,0,noun/adjective
 31,germanic,Germany,0,noun/adjective
 31,germanies,Germany,0,noun
-31,germans,Germany,0,noun
-31,germanys,Germany,0,noun
+31,Germans,Germany,0,noun
+31,Germanys,Germany,0,noun
 31,germen,germen,1,noun
 31,Geroge,Geroge,1,proper noun
 31,Gerona,Gerona,1,proper noun
@@ -88836,7 +88836,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Gh,Gh,1,proper noun
 31,Ghali,Ghali,1,proper noun
 31,Ghana,Ghana,1,noun
-31,ghanaian,ghanaian,1,adjective
+31,Ghanaian,Ghanaian,1,adjective
 31,gharan,gharan,1,verb
 31,Gharr,Gharr,1,proper noun
 31,Ghavai,Ghavai,1,proper noun
@@ -89297,7 +89297,7 @@ Level,Word,Headword,Headword_flag,POS
 31,grecian,Greece,0,noun/adjective
 31,grecians,Greece,0,noun
 31,Greek,Greece,0,noun/adjective
-31,greeks,Greece,0,noun
+31,Greeks,Greece,0,noun
 31,greedo,greedo,1,noun
 31,greely,greely,1,adverb
 31,greenall,greenall,1,adjective/adverb
@@ -89465,8 +89465,8 @@ Level,Word,Headword,Headword_flag,POS
 31,guangzhou,guangzhou,1,noun
 31,guantanamo,guantanamo,1,noun
 31,Guatemala,Guatemala,1,noun
-31,guatemalan,Guatemala,0,noun/adjective
-31,guatemalans,Guatemala,0,noun
+31,Guatemalan,Guatemala,0,noun/adjective
+31,Guatemalans,Guatemala,0,noun
 31,Guayas,Guayas,1,proper noun
 31,gubberford,gubberford,1,noun/verb
 31,gubbins,gubbins,1,noun
@@ -89559,7 +89559,7 @@ Level,Word,Headword,Headword_flag,POS
 31,gutman,gutman,1,noun/verb
 31,Gutzon,Gutzon,1,proper noun
 31,Guyana,Guyana,1,noun
-31,guyanese,Guyana,0,noun/adjective
+31,Guyanese,Guyana,0,noun/adjective
 31,Guyer,Guyer,1,proper noun
 31,guzman,guzman,1,noun/verb
 31,Gw,Gw,1,proper noun
@@ -89656,8 +89656,8 @@ Level,Word,Headword,Headword_flag,POS
 31,haise,haise,1,verb
 31,Haislett,Haislett,1,proper noun
 31,Haiti,Haiti,1,noun
-31,haitian,Haiti,0,noun/adjective
-31,haitians,Haiti,0,noun
+31,Haitian,Haiti,0,noun/adjective
+31,Haitians,Haiti,0,noun
 31,haitink,haitink,1,verb
 31,hakim,hakim,1,noun
 31,Haksar,Haksar,1,proper noun
@@ -89724,7 +89724,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Hamey,Hamey,1,proper noun
 31,Hamid,Hamid,1,proper noun
 31,Hamilton,Hamilton,1,noun
-31,hamiltons,hamiltons,1,noun
+31,Hamiltons,Hamiltons,1,noun
 31,Hamirbhai,Hamirbhai,1,proper noun
 31,hamish,hamish,1,adjective
 31,hamlin,hamlin,1,noun
@@ -90096,7 +90096,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Heber,Heber,1,proper noun
 31,heberley,heberley,1,noun
 31,Hebrew,Hebrew,1,noun/adjective
-31,hebrews,Hebrew,0,noun
+31,Hebrews,Hebrew,0,noun
 31,hebrides,hebrides,1,noun
 31,hebridean,hebrides,0,adjective
 31,hebron,hebron,1,noun
@@ -90143,7 +90143,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Helen,Helen,1,noun
 31,helena,helena,1,noun
 31,helene,helene,1,noun
-31,helens,helens,1,noun
+31,Helens,Helens,1,noun
 31,helfeld,helfeld,1,noun
 31,Helfgott,Helfgott,1,proper noun
 31,Helga,Helga,1,proper noun
@@ -90386,7 +90386,7 @@ Level,Word,Headword,Headword_flag,POS
 31,hindley,hindley,1,noun
 31,Hindu,Hindu,1,noun/adjective
 31,Hinduism,Hindu,0,noun
-31,hindus,Hindu,0,noun
+31,Hindus,Hindu,0,noun
 31,hindustan,hindustan,1,noun
 31,Hines,Hines,1,proper noun
 31,Hinh,Hinh,1,proper noun
@@ -90549,8 +90549,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Honda,Honda,1,proper noun
 31,honderich,honderich,1,noun/adjective
 31,Honduras,Honduras,1,noun
-31,honduran,Honduras,0,noun/adjective
-31,hondurans,Honduras,0,noun
+31,Honduran,Honduras,0,noun/adjective
+31,Hondurans,Honduras,0,noun
 31,honecker,honecker,1,adjective
 31,Honeycutt,Honeycutt,1,proper noun
 31,honeyduke,honeyduke,1,noun
@@ -90729,7 +90729,7 @@ Level,Word,Headword,Headword_flag,POS
 31,hungan,hungan,1,verb
 31,Hungary,Hungary,1,noun
 31,Hungarian,Hungary,0,noun/adjective
-31,hungarians,Hungary,0,noun
+31,Hungarians,Hungary,0,noun
 31,hungerford,hungerford,1,noun/verb
 31,hunkules,hunkules,1,noun
 31,hunslet,hunslet,1,noun
@@ -90829,7 +90829,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Iceland,Iceland,1,noun
 31,icelander,Iceland,0,noun
 31,icelanders,Iceland,0,noun
-31,icelandic,Iceland,0,noun/adjective
+31,Icelandic,Iceland,0,noun/adjective
 31,ichabod,ichabod,1,noun
 31,Ici,Ici,1,proper noun
 31,Icke,Icke,1,proper noun
@@ -90913,7 +90913,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Inder,Inder,1,proper noun
 31,India,India,1,noun
 31,Indian,India,0,noun/adjective
-31,indians,India,0,noun
+31,Indians,India,0,noun
 31,indiana,indiana,1,noun
 31,Indianapolis,Indianapolis,1,noun
 31,Indica,Indica,1,proper noun
@@ -90922,8 +90922,8 @@ Level,Word,Headword,Headword_flag,POS
 31,indochina,indochina,1,noun
 31,indochine,indochine,1,noun/verb
 31,Indonesia,Indonesia,1,noun
-31,indonesian,Indonesia,0,noun/adjective
-31,indonesians,Indonesia,0,noun
+31,Indonesian,Indonesia,0,noun/adjective
+31,Indonesians,Indonesia,0,noun
 31,indrayani,indrayani,1,noun
 31,Indu,Indu,1,proper noun
 31,indus,indus,1,noun
@@ -90989,18 +90989,18 @@ Level,Word,Headword,Headword_flag,POS
 31,ira,ira,1,noun
 31,Iran,Iran,1,noun
 31,irani,Iran,0,noun
-31,iranian,Iran,0,noun/adjective
-31,iranians,Iran,0,noun
+31,Iranian,Iran,0,noun/adjective
+31,Iranians,Iran,0,noun
 31,iranis,Iran,0,noun
 31,Iraq,Iraq,1,noun
-31,iraqi,Iraq,0,noun/adjective
-31,iraqis,Iraq,0,noun
+31,Iraqi,Iraq,0,noun/adjective
+31,Iraqis,Iraq,0,noun
 31,iras,iras,1,noun
 31,Irb,Irb,1,proper noun
 31,Irby,Irby,1,proper noun
 31,Irc,Irc,1,proper noun
 31,Ireland,Ireland,1,noun
-31,irish,Ireland,0,noun/adjective
+31,Irish,Ireland,0,noun/adjective
 31,irishness,Ireland,0,noun
 31,irena,irena,1,noun
 31,Irene,Irene,1,proper noun
@@ -91057,8 +91057,8 @@ Level,Word,Headword,Headword_flag,POS
 31,isolde,isolde,1,noun
 31,Isoud,Isoud,1,proper noun
 31,Israel,Israel,1,noun
-31,israeli,Israel,0,noun/adjective
-31,israelis,Israel,0,noun
+31,Israeli,Israel,0,noun/adjective
+31,Israelis,Israel,0,noun
 31,israelite,Israel,0,noun
 31,israelites,Israel,0,noun
 31,Iss,Iss,1,proper noun
@@ -91071,7 +91071,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Italian,Italy,0,noun/adjective
 31,italiana,Italy,0,noun
 31,italianate,Italy,0,verb
-31,italians,Italy,0,noun
+31,Italians,Italy,0,noun
 31,Itam,Itam,1,proper noun
 31,Itar,Itar,1,proper noun
 31,Ite,Ite,1,proper noun
@@ -91105,7 +91105,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Ixora,Ixora,1,proper noun
 31,Iz,Iz,1,proper noun
 31,izbekistan,izbekistan,1,noun/verb/adjective
-31,uzbeks,izbekistan,0,noun
+31,Uzbeks,izbekistan,0,noun
 31,izetbegovic,izetbegovic,1,adjective
 31,Izvestiya,Izvestiya,1,proper noun
 31,izzard,izzard,1,noun
@@ -91143,7 +91143,7 @@ Level,Word,Headword,Headword_flag,POS
 31,jacobite,jacobite,1,noun
 31,jacobites,jacobite,0,noun
 31,jacobitism,jacobitism,1,noun
-31,jacobs,jacobs,1,noun
+31,Jacobs,Jacobs,1,noun
 31,jacobsen,jacobsen,1,noun
 31,jacobson,jacobson,1,noun
 31,Jacoby,Jacoby,1,proper noun
@@ -91189,8 +91189,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Jama,Jama,1,proper noun
 31,jamaal,jamaal,1,adjective
 31,Jamaica,Jamaica,1,noun
-31,jamaican,Jamaica,0,noun/adjective
-31,jamaicans,Jamaica,0,noun
+31,Jamaican,Jamaica,0,noun/adjective
+31,Jamaicans,Jamaica,0,noun
 31,jamal,jamal,1,adjective
 31,Jamba,Jamba,1,proper noun
 31,Jame,Jame,1,proper noun
@@ -91265,7 +91265,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Jatti,Jatti,1,proper noun
 31,Jauncey,Jauncey,1,proper noun
 31,java,java,1,noun
-31,javanese,javanese,1,noun/adjective
+31,Javanese,Javanese,1,noun/adjective
 31,javed,javed,1,adjective
 31,Javer,Javer,1,proper noun
 31,javier,javier,1,adjective
@@ -91307,7 +91307,7 @@ Level,Word,Headword,Headword_flag,POS
 31,jeffersons,jeffersons,1,noun
 31,jeffery,jeffery,1,noun
 31,Jeffrey,Jeffrey,1,noun
-31,jeffreys,jeffreys,1,noun
+31,Jeffreys,Jeffreys,1,noun
 31,jeffries,jeffries,1,noun/verb
 31,Jefita,Jefita,1,proper noun
 31,Jehan,Jehan,1,proper noun
@@ -91384,7 +91384,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Jew,Jew,1,noun
 31,Jewish,Jew,0,adjective
 31,jewishness,Jew,0,noun
-31,jews,Jew,0,noun
+31,Jews,Jew,0,noun
 31,Jewitt,Jewitt,1,proper noun
 31,Jewkes,Jewkes,1,proper noun
 31,jewry,jewry,1,noun
@@ -91467,7 +91467,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Johnnie,Johnnie,1,proper noun
 31,Johnny,Johnny,1,noun
 31,johnnies,Johnny,0,noun
-31,johns,johns,1,noun
+31,Johns,Johns,1,noun
 31,johnsen,johnsen,1,noun
 31,johnson,johnson,1,noun
 31,johnsons,johnsons,1,noun
@@ -91500,9 +91500,9 @@ Level,Word,Headword,Headword_flag,POS
 31,jopling,jopling,1,noun
 31,Jorda,Jorda,1,proper noun
 31,Jordan,Jordan,1,noun
-31,jordanian,Jordan,0,noun/adjective
-31,jordanians,Jordan,0,noun
-31,jordans,jordans,1,noun
+31,Jordanian,Jordan,0,noun/adjective
+31,Jordanians,Jordan,0,noun
+31,Jordans,Jordans,1,noun
 31,jordanstown,jordanstown,1,noun
 31,Jordi,Jordi,1,proper noun
 31,Jordy,Jordy,1,proper noun
@@ -91515,7 +91515,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Joseph,Joseph,1,noun
 31,Josephina,Josephina,1,proper noun
 31,Josephine,Josephine,1,proper noun
-31,josephs,josephs,1,noun
+31,Josephs,Josephs,1,noun
 31,josephus,josephus,1,noun
 31,Josey,Josey,1,proper noun
 31,josh,josh,1,verb
@@ -91591,7 +91591,7 @@ Level,Word,Headword,Headword_flag,POS
 31,junkers,junker,0,noun
 31,juno,juno,1,noun
 31,juntao,juntao,1,noun
-31,jupiters,jupiters,1,noun
+31,Jupiters,Jupiters,1,noun
 31,Jura,Jura,1,proper noun
 31,Juras,Juras,1,proper noun
 31,jurgen,jurgen,1,noun
@@ -91804,7 +91804,7 @@ Level,Word,Headword,Headword_flag,POS
 31,kaylee,kaylee,1,noun/adjective
 31,Kazakhstan,Kazakhstan,1,noun
 31,Kazakh,Kazakhstan,0,noun
-31,kazakhs,Kazakhstan,0,noun
+31,Kazakhs,Kazakhstan,0,noun
 31,kazan,kazan,1,noun
 31,kazansky,kazansky,1,noun/verb
 31,kazantzakis,kazantzakis,1,noun
@@ -91918,8 +91918,8 @@ Level,Word,Headword,Headword_flag,POS
 31,kenward,kenward,1,adverb
 31,kenwood,kenwood,1,noun
 31,Kenya,Kenya,1,noun
-31,kenyan,Kenya,0,noun/adjective
-31,kenyans,Kenya,0,noun
+31,Kenyan,Kenya,0,noun/adjective
+31,Kenyans,Kenya,0,noun
 31,Kenyatta,Kenyatta,1,proper noun
 31,kenyon,kenyon,1,adjective/adverb
 31,Keown,Keown,1,proper noun
@@ -92002,8 +92002,8 @@ Level,Word,Headword,Headword_flag,POS
 31,khiang,khiang,1,noun
 31,Khieu,Khieu,1,proper noun
 31,Khin,Khin,1,proper noun
-31,khmer,khmer,1,noun
-31,khmers,khmer,0,noun
+31,Khmer,Khmer,1,noun
+31,Khmers,Khmer,0,noun
 31,Khojas,Khojas,1,proper noun
 31,khomeini,khomeini,1,noun
 31,Khoon,Khoon,1,proper noun
@@ -92309,7 +92309,7 @@ Level,Word,Headword,Headword_flag,POS
 31,korda,korda,1,noun
 31,Korea,Korea,1,noun
 31,Korean,Korea,0,noun/adjective
-31,koreans,Korea,0,noun
+31,Koreans,Korea,0,noun
 31,Koresh,Koresh,1,proper noun
 31,korman,korman,1,noun/verb
 31,Korn,Korn,1,proper noun
@@ -92400,7 +92400,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Krishna,Krishna,1,noun
 31,krishnan,krishnan,1,noun
 31,Krishnapur,Krishnapur,1,proper noun
-31,krishnas,krishnas,1,noun
+31,Krishnas,Krishnas,1,noun
 31,Krishnaswamy,Krishnaswamy,1,proper noun
 31,krispy,krispy,1,noun/verb
 31,kriss,kriss,1,noun
@@ -92472,7 +92472,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Kuo,Kuo,1,proper noun
 31,kuomintang,kuomintang,1,noun
 31,kurd,kurd,1,noun
-31,kurdish,kurd,0,noun/adjective
+31,Kurdish,kurd,0,noun/adjective
 31,kurds,kurd,0,noun
 31,kurdistan,kurdistan,1,noun
 31,kurgan,kurgan,1,verb
@@ -92491,8 +92491,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Kusum,Kusum,1,proper noun
 31,Kuttner,Kuttner,1,proper noun
 31,Kuwait,Kuwait,1,noun
-31,kuwaiti,Kuwait,0,noun/adjective
-31,kuwaitis,Kuwait,0,noun
+31,Kuwaiti,Kuwait,0,noun/adjective
+31,Kuwaitis,Kuwait,0,noun
 31,Kvast,Kvast,1,proper noun
 31,Kveim,Kveim,1,proper noun
 31,kwai,kwai,1,noun
@@ -92678,9 +92678,9 @@ Level,Word,Headword,Headword_flag,POS
 31,lanzarote,lanzarote,1,noun
 31,lanzarottas,lanzarottas,1,noun
 31,Laos,Laos,1,noun
-31,lao,Laos,0,noun/adjective
-31,laotian,Laos,0,noun/adjective
-31,laotians,Laos,0,noun
+31,Lao,Laos,0,noun/adjective
+31,Laotian,Laos,0,noun/adjective
+31,Laotians,Laos,0,noun
 31,Laowe,Laowe,1,proper noun
 31,Lapierre,Lapierre,1,proper noun
 31,lapkin,lapkin,1,noun/adjective
@@ -92737,14 +92737,14 @@ Level,Word,Headword,Headword_flag,POS
 31,latimer,latimer,1,adjective
 31,Latin,Latin,1,noun/adjective
 31,latinate,Latin,0,adjective
-31,latins,Latin,0,noun
+31,Latins,Latin,0,noun
 31,Latinovich,Latinovich,1,proper noun
 31,latrell,latrell,1,noun
 31,lattavansky,lattavansky,1,noun/verb
 31,lattimores,lattimores,1,noun
 31,Latvia,Latvia,1,noun
 31,Latvian,Latvia,0,noun/adjective
-31,latvians,Latvia,0,noun
+31,Latvians,Latvia,0,noun
 31,Latzo,Latzo,1,proper noun
 31,Lauda,Lauda,1,proper noun
 31,lauder,lauder,1,noun
@@ -92841,7 +92841,7 @@ Level,Word,Headword,Headword_flag,POS
 31,leavisites,leavisite,0,verb
 31,Leavitt,Leavitt,1,proper noun
 31,Lebanon,Lebanon,1,noun
-31,lebanese,Lebanon,0,noun/adjective
+31,Lebanese,Lebanon,0,noun/adjective
 31,lebaron,lebaron,1,noun
 31,Leblanc,Leblanc,1,proper noun
 31,lebowski,lebowski,1,noun/verb
@@ -93045,13 +93045,13 @@ Level,Word,Headword,Headword_flag,POS
 31,libby,libby,1,noun
 31,liberace,liberace,1,noun/verb
 31,Liberia,Liberia,1,noun
-31,liberian,Liberia,0,noun/adjective
-31,liberians,Liberia,0,noun
+31,Liberian,Liberia,0,noun/adjective
+31,Liberians,Liberia,0,noun
 31,liberman,liberman,1,noun/verb
 31,Libor,Libor,1,proper noun
 31,Libya,Libya,1,noun
-31,libyan,Libya,0,noun/adjective
-31,libyans,Libya,0,noun
+31,Libyan,Libya,0,noun/adjective
+31,Libyans,Libya,0,noun
 31,lichfield,lichfield,1,noun/verb
 31,lichtenhagen,lichtenhagen,1,noun
 31,lichtenstein,lichtenstein,1,noun
@@ -93115,7 +93115,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Lina,Lina,1,proper noun
 31,linares,linares,1,noun
 31,Lincoln,Lincoln,1,noun
-31,lincolns,lincolns,1,noun
+31,Lincolns,Lincolns,1,noun
 31,lincolnshire,lincolnshire,1,noun
 31,Lincs,Lincs,1,proper noun
 31,lind,lind,1,noun
@@ -93139,7 +93139,7 @@ Level,Word,Headword,Headword_flag,POS
 31,lineker,lineker,1,adjective
 31,linfield,linfield,1,noun/verb
 31,linford,linford,1,noun/verb
-31,lingala,lingala,1,noun
+31,Lingala,Lingala,1,noun
 31,lingfield,lingfield,1,noun/verb
 31,linighan,linighan,1,noun
 31,linkletter,linkletter,1,noun/verb
@@ -93194,7 +93194,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Lithuania,Lithuania,1,noun
 31,Lithunania,Lithunania,1,proper noun
 31,Lithuanian,lithunania,0,noun/adjective
-31,lithuanians,lithunania,0,noun
+31,Lithuanians,lithunania,0,noun
 31,Liti,Liti,1,proper noun
 31,Litt,Litt,1,proper noun
 31,littlehampton,littlehampton,1,noun
@@ -93659,7 +93659,7 @@ Level,Word,Headword,Headword_flag,POS
 31,macedon,macedon,1,noun
 31,Macedonia,Macedonia,1,noun
 31,Macedonian,Macedonia,0,noun/adjective
-31,macedonians,Macedonia,0,noun
+31,Macedonians,Macedonia,0,noun
 31,macewan,macewan,1,noun/verb/adjective
 31,macfadyen,macfadyen,1,noun/verb
 31,macfarlane,macfarlane,1,noun
@@ -93873,16 +93873,16 @@ Level,Word,Headword,Headword_flag,POS
 31,Malavesi,Malavesi,1,proper noun
 31,Malaviya,Malaviya,1,proper noun
 31,Malawi,Malawi,1,noun
-31,malawian,Malawi,0,noun/adjective
-31,malawians,Malawi,0,noun
+31,Malawian,Malawi,0,noun/adjective
+31,Malawians,Malawi,0,noun
 31,malaya,malaya,1,noun
 31,Malayalam,Malayalam,1,noun
 31,Malaysia,Malaysia,1,noun
-31,malay,Malaysia,0,noun/adjective
+31,Malay,Malaysia,0,noun/adjective
 31,malayan,Malaysia,0,noun/adjective
-31,malays,Malaysia,0,noun
-31,malaysian,Malaysia,0,noun/adjective
-31,malaysians,Malaysia,0,noun
+31,Malays,Malaysia,0,noun
+31,Malaysian,Malaysia,0,noun/adjective
+31,Malaysians,Malaysia,0,noun
 31,Malc,Malc,1,proper noun
 31,Malco,Malco,1,proper noun
 31,malcolm,malcolm,1,noun
@@ -93928,7 +93928,7 @@ Level,Word,Headword,Headword_flag,POS
 31,malpass,malpass,1,noun/verb/adjective
 31,malraux,malraux,1,noun
 31,Malta,Malta,1,noun
-31,maltese,Malta,0,noun/adjective
+31,Maltese,Malta,0,noun/adjective
 31,Maltby,Maltby,1,proper noun
 31,malthus,malthus,1,noun
 31,malthusian,malthusian,1,noun/adjective
@@ -94039,7 +94039,7 @@ Level,Word,Headword,Headword_flag,POS
 31,manvers,manvers,1,noun
 31,Manville,Manville,1,proper noun
 31,manweb,manweb,1,noun/verb
-31,manx,manx,1,noun/adjective
+31,Manx,Manx,1,noun/adjective
 31,Manzanar,Manzanar,1,proper noun
 31,manzanola,manzanola,1,noun
 31,Manzini,Manzini,1,proper noun
@@ -94047,8 +94047,8 @@ Level,Word,Headword,Headword_flag,POS
 31,mao,mao,1,noun
 31,maoist,maoist,1,noun/adjective
 31,maoists,maoist,0,noun
-31,maori,maori,1,noun
-31,maoris,maori,0,noun
+31,Maori,Maori,1,noun
+31,Maoris,Maori,0,noun
 31,maozedong,maozedong,1,noun/verb
 31,maplecrest,maplecrest,1,noun/verb
 31,maplewood,maplewood,1,noun
@@ -94108,7 +94108,7 @@ Level,Word,Headword,Headword_flag,POS
 31,marfan,marfan,1,noun/verb
 31,Marg,Marg,1,proper noun
 31,Margaret,Margaret,1,verb
-31,margarets,margarets,1,verb
+31,Margarets,Margarets,1,verb
 31,margate,margate,1,noun
 31,marge,marge,1,noun
 31,Margeaux,Margeaux,1,proper noun
@@ -94254,7 +94254,7 @@ Level,Word,Headword,Headword_flag,POS
 31,maryland,maryland,1,noun
 31,marylebone,marylebone,1,noun/verb/adjective
 31,maryport,maryport,1,noun/verb/adjective
-31,marys,marys,1,noun
+31,Marys,Marys,1,noun
 31,Marzillo,Marzillo,1,proper noun
 31,Masab,Masab,1,proper noun
 31,masada,masada,1,noun
@@ -94329,7 +94329,7 @@ Level,Word,Headword,Headword_flag,POS
 31,matterhorn,matterhorn,1,noun
 31,mattes,mattes,1,noun/verb
 31,Matthew,Matthew,1,noun
-31,matthews,matthews,1,noun
+31,Matthews,Matthews,1,noun
 31,matthewson,matthewson,1,noun
 31,Matthey,Matthey,1,proper noun
 31,matthias,matthias,1,noun
@@ -94365,7 +94365,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Maurin,Maurin,1,proper noun
 31,Maurine,Maurine,1,proper noun
 31,Mauritania,Mauritania,1,noun
-31,mauritanian,mauritanian,1,noun/adjective
+31,Mauritanian,Mauritanian,1,noun/adjective
 31,Mauritius,Mauritius,1,noun
 31,Maurizio,Maurizio,1,proper noun
 31,Mauro,Mauro,1,proper noun
@@ -94878,8 +94878,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Mewith,Mewith,1,proper noun
 31,Mexico,Mexico,1,noun
 31,mex,Mexico,0,noun
-31,mexican,Mexico,0,noun/adjective
-31,mexicans,Mexico,0,noun
+31,Mexican,Mexico,0,noun/adjective
+31,Mexicans,Mexico,0,noun
 31,Meyer,Meyer,1,proper noun
 31,Meyerheim,Meyerheim,1,proper noun
 31,meyers,meyers,1,noun
@@ -94908,7 +94908,7 @@ Level,Word,Headword,Headword_flag,POS
 31,michaelis,michaelis,1,noun
 31,michaelmas,michaelmas,1,noun
 31,michaelparkin,michaelparkin,1,noun/adjective
-31,michaels,michaels,1,noun
+31,Michaels,Michaels,1,noun
 31,michaelson,michaelson,1,noun
 31,Michaleen,Michaleen,1,proper noun
 31,michan,michan,1,noun
@@ -94935,8 +94935,8 @@ Level,Word,Headword,Headword_flag,POS
 31,micks,micks,1,noun
 31,Micky,Micky,1,proper noun
 31,Micronesia,Micronesia,1,noun
-31,micronesian,Micronesia,0,adjective
-31,micronesians,Micronesia,0,noun
+31,Micronesian,Micronesia,0,adjective
+31,Micronesians,Micronesia,0,noun
 31,microprose,microprose,1,noun
 31,microsoft,microsoft,1,adjective/adverb
 31,microvitec,microvitec,1,noun
@@ -95175,10 +95175,10 @@ Level,Word,Headword,Headword_flag,POS
 31,mola,mola,1,noun
 31,Molby,Molby,1,proper noun
 31,moldavia,moldavia,1,noun
-31,moldavian,moldavian,1,adjective
-31,moldavians,moldavian,0,adjective
+31,Moldavian,Moldavian,1,adjective
+31,Moldavians,Moldavian,0,adjective
 31,Moldova,Moldova,1,noun
-31,moldovan,moldovan,1,adjective
+31,Moldovan,Moldovan,1,adjective
 31,moleire,moleire,1,noun
 31,molensingel,molensingel,1,noun/verb
 31,molesworth,molesworth,1,noun/adjective
@@ -95242,7 +95242,7 @@ Level,Word,Headword,Headword_flag,POS
 31,monroe,monroe,1,noun
 31,monrovia,monrovia,1,noun
 31,monrovian,monrovian,1,adjective
-31,mons,mons,1,noun
+31,Mons,Mons,1,noun
 31,Monsanto,Monsanto,1,proper noun
 31,Monstro,Monstro,1,proper noun
 31,monstropolis,monstropolis,1,noun
@@ -95264,7 +95264,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Montel,Montel,1,proper noun
 31,Montelepre,Montelepre,1,proper noun
 31,montell,montell,1,noun/verb
-31,montenegrin,montenegrin,1,noun/verb
+31,Montenegrin,Montenegrin,1,noun/verb
 31,Montenegro,Montenegro,1,noun
 31,monterey,monterey,1,noun
 31,Montero,Montero,1,proper noun
@@ -95352,7 +95352,7 @@ Level,Word,Headword,Headword_flag,POS
 31,morrison,morrison,1,noun
 31,Morrissey,Morrissey,1,proper noun
 31,Morroco,Morroco,1,proper noun
-31,moroccan,morroco,0,noun/adjective
+31,Moroccan,morroco,0,noun/adjective
 31,Morrocans,Morroco,0,proper noun
 31,morse,morse,1,noun
 31,mortensen,mortensen,1,noun
@@ -95431,8 +95431,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Moyle,Moyle,1,proper noun
 31,moynihan,moynihan,1,noun
 31,Mozambique,Mozambique,1,noun
-31,mozambican,Mozambique,0,noun/adjective
-31,mozambicans,Mozambique,0,noun
+31,Mozambican,Mozambique,0,noun/adjective
+31,Mozambicans,Mozambique,0,noun
 31,mozart,mozart,1,noun
 31,Mp3,Mp3,1,proper noun
 31,mpeg,mpeg,1,noun
@@ -95548,7 +95548,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Musica,Musica,1,proper noun
 31,Muskegon,Muskegon,1,proper noun
 31,Muslim,Muslim,1,noun/adjective
-31,muslims,Muslim,0,noun
+31,Muslims,Muslim,0,noun
 31,musselburgh,musselburgh,1,noun
 31,mussolini,mussolini,1,noun
 31,musson,musson,1,noun
@@ -95657,8 +95657,8 @@ Level,Word,Headword,Headword_flag,POS
 31,nambudiripad,nambudiripad,1,noun/verb
 31,Namesnik,Namesnik,1,proper noun
 31,Namibia,Namibia,1,noun
-31,namibian,Namibia,0,noun/adjective
-31,namibians,Namibia,0,noun
+31,Namibian,Namibia,0,noun/adjective
+31,Namibians,Namibia,0,noun
 31,Nanaji,Nanaji,1,proper noun
 31,nanak,nanak,1,noun
 31,Nancy,Nancy,1,noun
@@ -95726,7 +95726,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Naulls,Naulls,1,proper noun
 31,Nauru,Nauru,1,noun
 31,navaho,navaho,1,noun
-31,navajo,navajo,1,noun
+31,Navajo,Navajo,1,noun
 31,Navan,Navan,1,proper noun
 31,Navarre,Navarre,1,proper noun
 31,Navarro,Navarro,1,proper noun
@@ -95918,8 +95918,8 @@ Level,Word,Headword,Headword_flag,POS
 31,nicaea,nicaea,1,noun
 31,nicandra,nicandra,1,noun
 31,Nicaragua,Nicaragua,1,noun
-31,nicaraguan,Nicaragua,0,noun/adjective
-31,nicaraguans,Nicaragua,0,noun
+31,Nicaraguan,Nicaragua,0,noun/adjective
+31,Nicaraguans,Nicaragua,0,noun
 31,Nicard,Nicard,1,proper noun
 31,Nicea,Nicea,1,proper noun
 31,Nicean,Nicean,1,proper noun
@@ -95969,8 +95969,8 @@ Level,Word,Headword,Headword_flag,POS
 31,nigelblog,nigelblog,1,noun/verb
 31,Niger,Niger,1,noun
 31,Nigeria,Nigeria,1,noun
-31,nigerian,Nigeria,0,noun/adjective
-31,nigerians,Nigeria,0,noun
+31,Nigerian,Nigeria,0,noun/adjective
+31,Nigerians,Nigeria,0,noun
 31,nightingall,nightingall,1,noun/verb
 31,nihore,nihore,1,noun
 31,nijinsky,nijinsky,1,noun
@@ -96112,7 +96112,7 @@ Level,Word,Headword,Headword_flag,POS
 31,norwalk,norwalk,1,noun/verb
 31,Norway,Norway,1,noun
 31,Norwegian,Norway,0,noun/adjective
-31,norwegians,Norway,0,noun
+31,Norwegians,Norway,0,noun
 31,Norwich,Norwich,1,proper noun
 31,norwood,norwood,1,noun
 31,nostradamus,nostradamus,1,noun
@@ -96331,8 +96331,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Omaha,Omaha,1,noun
 31,omally,omally,1,adverb
 31,Oman,Oman,1,noun
-31,omani,Oman,0,noun/adjective
-31,omanis,Oman,0,noun
+31,Omani,Oman,0,noun/adjective
+31,Omanis,Oman,0,noun
 31,omanson,omanson,1,noun
 31,Omar,Omar,1,proper noun
 31,Omaya,Omaya,1,proper noun
@@ -96585,8 +96585,8 @@ Level,Word,Headword,Headword_flag,POS
 31,paki,Pakistan,0,noun
 31,pakies,Pakistan,0,verb
 31,pakis,Pakistan,0,noun
-31,pakistani,Pakistan,0,noun/adjective
-31,pakistanis,Pakistan,0,noun
+31,Pakistani,Pakistan,0,noun/adjective
+31,Pakistanis,Pakistan,0,noun
 31,palaeolithic,palaeolithic,1,noun/adjective
 31,palantine,palantine,1,noun
 31,palatinate,palatinate,1,noun
@@ -96596,11 +96596,11 @@ Level,Word,Headword,Headword_flag,POS
 31,Palekar,Palekar,1,proper noun
 31,palermo,palermo,1,noun
 31,palestine,palestine,1,noun
-31,palestinian,palestine,0,noun/adjective
-31,palestinians,palestine,0,noun
+31,Palestinian,palestine,0,noun/adjective
+31,Palestinians,palestine,0,noun
 31,palestrina,palestrina,1,noun
 31,Paley,Paley,1,proper noun
-31,pali,pali,1,noun
+31,Pali,Pali,1,noun
 31,Palin,Palin,1,proper noun
 31,Palit,Palit,1,proper noun
 31,pallas,pallas,1,noun
@@ -96625,8 +96625,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Pamplona,Pamplona,1,proper noun
 31,pampore,pampore,1,noun/verb
 31,Panama,Panama,1,noun
-31,panamanian,Panama,0,noun/adjective
-31,panamanians,Panama,0,noun
+31,Panamanian,Panama,0,noun/adjective
+31,Panamanians,Panama,0,noun
 31,panang,panang,1,noun
 31,panasonic,panasonic,1,adjective
 31,Panch,Panch,1,proper noun
@@ -96792,7 +96792,7 @@ Level,Word,Headword,Headword_flag,POS
 31,paulmann,paulmann,1,noun
 31,Paulmarie,Paulmarie,1,proper noun
 31,Paulo,Paulo,1,proper noun
-31,pauls,pauls,1,noun
+31,Pauls,Pauls,1,noun
 31,paulsen,paulsen,1,noun
 31,paulson,paulson,1,noun
 31,paulus,paulus,1,noun
@@ -96982,15 +96982,15 @@ Level,Word,Headword,Headword_flag,POS
 31,pershore,pershore,1,noun/verb
 31,persia,persia,1,noun
 31,Persian,persia,0,noun/adjective
-31,persians,persia,0,noun
+31,Persians,persia,0,noun
 31,Persil,Persil,1,proper noun
 31,Pertex,Pertex,1,proper noun
 31,perth,perth,1,noun
 31,perthshire,perthshire,1,noun
 31,pertwee,pertwee,1,adjective
 31,Peru,Peru,1,noun
-31,peruvian,Peru,0,noun/adjective
-31,peruvians,Peru,0,noun
+31,Peruvian,Peru,0,noun/adjective
+31,Peruvians,Peru,0,noun
 31,perugia,perugia,1,noun
 31,pervis,pervis,1,noun
 31,pesach,pesach,1,noun
@@ -97006,7 +97006,7 @@ Level,Word,Headword,Headword_flag,POS
 31,peterborough,peterborough,1,noun
 31,peterhead,peterhead,1,noun/verb
 31,peterlee,peterlee,1,noun/adjective
-31,peters,peters,1,noun
+31,Peters,Peters,1,noun
 31,petersburg,petersburg,1,noun
 31,petersen,petersen,1,noun
 31,petersfield,petersfield,1,noun/verb
@@ -97069,10 +97069,10 @@ Level,Word,Headword,Headword_flag,POS
 31,Philippa,Philippa,1,proper noun
 31,Philippe,Philippe,1,proper noun
 31,philippine,philippine,1,noun/adjective
-31,filipino,philippine,0,noun/adjective
-31,filipinos,philippine,0,noun
+31,Filipino,philippine,0,noun/adjective
+31,Filipinos,philippine,0,noun
 31,Philippines,philippine,0,noun
-31,philips,philips,1,noun
+31,Philips,Philips,1,noun
 31,philipson,philipson,1,noun
 31,philistine,philistine,1,noun/adjective
 31,philistines,philistine,0,noun
@@ -97543,7 +97543,7 @@ Level,Word,Headword,Headword_flag,POS
 31,protano,protano,1,noun
 31,Protestant,Protestant,1,noun/adjective
 31,protestantism,Protestant,0,noun
-31,protestants,Protestant,0,noun
+31,Protestants,Protestant,0,noun
 31,prothero,prothero,1,noun
 31,protheroe,protheroe,1,noun
 31,protherough,protherough,1,noun/verb/adjective/adverb
@@ -97602,7 +97602,7 @@ Level,Word,Headword,Headword_flag,POS
 31,punchestown,punchestown,1,noun
 31,punjab,punjab,1,noun
 31,Punjabi,Punjabi,1,noun
-31,punjabis,punjabis,1,noun
+31,Punjabis,Punjabis,1,noun
 31,Punta,Punta,1,proper noun
 31,pupkin,pupkin,1,noun/adjective
 31,pupnick,pupnick,1,noun/verb
@@ -97681,7 +97681,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Quayle,Quayle,1,proper noun
 31,quayles,quayles,1,noun
 31,Quebec,Quebec,1,noun
-31,quechua,quechua,1,noun
+31,Quechua,Quechua,1,noun
 31,Queeg,Queeg,1,proper noun
 31,Queegs,Queeg,0,proper noun
 31,Queenie,Queenie,1,proper noun
@@ -98175,7 +98175,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Ricci,Ricci,1,proper noun
 31,Richalds,Richalds,1,proper noun
 31,Richard,Richard,1,adjective/adverb
-31,richards,richards,1,noun
+31,Richards,Richards,1,noun
 31,richardson,richardson,1,noun
 31,richardsons,richardsons,1,noun
 31,richelieu,richelieu,1,noun
@@ -98309,7 +98309,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Robert,Robert,1,noun
 31,Roberta,Roberta,1,proper noun
 31,Roberto,Roberto,1,proper noun
-31,roberts,roberts,1,noun
+31,Roberts,Roberts,1,noun
 31,robertson,robertson,1,noun
 31,robertsons,robertsons,1,noun
 31,Robey,Robey,1,proper noun
@@ -98375,7 +98375,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Rogan,Rogan,1,proper noun
 31,Roger,Roger,1,proper noun
 31,rogerick,rogerick,1,noun/verb
-31,rogers,rogers,1,noun
+31,Rogers,Rogers,1,noun
 31,roget,roget,1,noun
 31,Roh,Roh,1,proper noun
 31,rohal,rohal,1,adjective
@@ -98411,7 +98411,7 @@ Level,Word,Headword,Headword_flag,POS
 31,romana,romana,1,noun
 31,Romania,Romania,1,noun
 31,Romanian,Romania,0,noun/adjective
-31,romanians,Romania,0,noun
+31,Romanians,Romania,0,noun
 31,rumania,Romania,0,noun
 31,rumanian,Romania,0,noun/adjective
 31,rumanians,Romania,0,noun
@@ -98668,12 +98668,12 @@ Level,Word,Headword,Headword_flag,POS
 31,Russe,Russe,1,proper noun
 31,Russel,Russel,1,proper noun
 31,Russell,Russell,1,noun
-31,russells,russells,1,noun
+31,Russells,Russells,1,noun
 31,russett,russett,1,noun
 31,Russia,Russia,1,noun
 31,Russian,Russia,0,noun/adjective
-31,russians,Russia,0,noun
-31,russias,russias,1,noun
+31,Russians,Russia,0,noun
+31,Russias,Russias,1,noun
 31,Russo,Russo,1,proper noun
 31,russon,russon,1,noun
 31,rustam,rustam,1,noun
@@ -98802,7 +98802,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Saleem,Saleem,1,proper noun
 31,Saleh,Saleh,1,proper noun
 31,Salem,Salem,1,noun
-31,salems,salems,1,noun
+31,Salems,Salems,1,noun
 31,salerno,salerno,1,noun
 31,salford,salford,1,noun/verb
 31,Salgaonkar,Salgaonkar,1,proper noun
@@ -98867,8 +98867,8 @@ Level,Word,Headword,Headword_flag,POS
 31,sammons,sammons,1,noun
 31,Sammy,Sammy,1,proper noun
 31,Samoa,Samoa,1,noun
-31,samoan,Samoa,0,noun/adjective
-31,samoans,Samoa,0,noun
+31,Samoan,Samoa,0,noun/adjective
+31,Samoans,Samoa,0,noun
 31,Samos,Samos,1,proper noun
 31,Sampdoria,Sampdoria,1,proper noun
 31,samphan,samphan,1,noun
@@ -98880,7 +98880,7 @@ Level,Word,Headword,Headword_flag,POS
 31,samson,samson,1,noun
 31,samsung,samsung,1,noun/verb
 31,Samuel,Samuel,1,noun
-31,samuels,samuels,1,noun
+31,Samuels,Samuels,1,noun
 31,samuelson,samuelson,1,noun
 31,samways,samways,1,noun
 31,San,San,1,proper noun
@@ -98968,7 +98968,7 @@ Level,Word,Headword,Headword_flag,POS
 31,sardanes,sardanes,1,noun
 31,Sardar,Sardar,1,proper noun
 31,sardinia,sardinia,1,noun
-31,sardinian,sardinia,0,noun/adjective
+31,Sardinian,sardinia,0,noun/adjective
 31,sardis,sardis,1,noun
 31,sardonicus,sardonicus,1,noun
 31,Sarella,Sarella,1,proper noun
@@ -99018,8 +99018,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Sau,Sau,1,proper noun
 31,sauchiohall,sauchiohall,1,noun
 31,Saud,Saud,1,proper noun
-31,saudi,saudi,1,noun/adjective
-31,saudis,saudi,0,noun
+31,Saudi,Saudi,1,noun/adjective
+31,Saudis,Saudi,0,noun
 31,sauganash,sauganash,1,noun
 31,saugus,saugus,1,noun
 31,saul,saul,1,noun
@@ -99211,15 +99211,15 @@ Level,Word,Headword,Headword_flag,POS
 31,scot,scotland,0,noun
 31,scotch,scotland,0,noun/verb/adjective
 31,scots,scotland,0,noun/adjective
-31,scotsman,scotland,0,noun
-31,scotsmen,scotland,0,noun
-31,scottish,scotland,0,noun/adjective
+31,Scotsman,scotland,0,noun
+31,Scotsmen,scotland,0,noun
+31,Scottish,scotland,0,noun/adjective
 31,scotrail,scotrail,1,noun/verb
 31,scotsport,scotsport,1,noun/verb
 31,Scott,Scott,1,noun
 31,Scotti,Scotti,1,proper noun
 31,scottie,scottie,1,noun
-31,scotts,scotts,1,noun
+31,Scotts,Scotts,1,noun
 31,Scottsdale,Scottsdale,1,noun
 31,Scotty,Scotty,1,proper noun
 31,Scotvec,Scotvec,1,proper noun
@@ -99362,7 +99362,7 @@ Level,Word,Headword,Headword_flag,POS
 31,seneca,seneca,1,noun
 31,senecas,senecas,1,noun
 31,Senegal,Senegal,1,noun
-31,senegalese,Senegal,0,noun/adjective
+31,Senegalese,Senegal,0,noun/adjective
 31,senese,senese,1,adjective
 31,senfed,senfed,1,adjective
 31,Seng,Seng,1,proper noun
@@ -99382,7 +99382,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Serbia,Serbia,1,noun
 31,serb,Serbia,0,noun
 31,Serbian,Serbia,0,noun/adjective
-31,serbians,Serbia,0,noun
+31,Serbians,Serbia,0,noun
 31,serbs,Serbia,0,noun
 31,Serbo,Serbo,1,proper noun
 31,Serc,Serc,1,proper noun
@@ -99612,7 +99612,7 @@ Level,Word,Headword,Headword_flag,POS
 31,shetlands,shetland,0,noun
 31,shevardnadze,shevardnadze,1,noun
 31,Shia,Shia,1,noun
-31,shias,Shia,0,noun
+31,Shias,Shia,0,noun
 31,Shiel,Shiel,1,proper noun
 31,shiels,shiels,1,noun
 31,shifflet,shifflet,1,noun
@@ -99635,7 +99635,7 @@ Level,Word,Headword,Headword_flag,POS
 31,shirelles,shirelles,1,noun
 31,Shirl,Shirl,1,proper noun
 31,Shirley,Shirley,1,noun
-31,shirleys,shirleys,1,noun
+31,Shirleys,Shirleys,1,noun
 31,Shiroda,Shiroda,1,proper noun
 31,shiromani,shiromani,1,noun/adjective
 31,shiv,shiv,1,noun
@@ -99651,7 +99651,7 @@ Level,Word,Headword,Headword_flag,POS
 31,shoji,shoji,1,noun
 31,sholavaram,sholavaram,1,noun
 31,Sholom,Sholom,1,proper noun
-31,shona,shona,1,noun/adjective
+31,Shona,Shona,1,noun/adjective
 31,Shonte,Shonte,1,proper noun
 31,shoreditch,shoreditch,1,noun/verb
 31,shoreham,shoreham,1,noun/verb
@@ -99749,7 +99749,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Sike,Sike,1,proper noun
 31,Sikes,Sikes,1,proper noun
 31,Sikh,Sikh,1,noun/adjective
-31,sikhs,Sikh,0,noun
+31,Sikhs,Sikh,0,noun
 31,sikora,sikora,1,noun
 31,Sila,Sila,1,proper noun
 31,Silaev,Silaev,1,proper noun
@@ -99924,13 +99924,13 @@ Level,Word,Headword,Headword_flag,POS
 31,Slorc,Slorc,1,proper noun
 31,Sloss,Sloss,1,proper noun
 31,Slovak,Slovak,1,noun
-31,slovaks,Slovak,0,noun
+31,Slovaks,Slovak,0,noun
 31,Slovakia,Slovakia,1,noun
 31,Slovenia,Slovenia,1,noun
 31,slovene,Slovenia,0,noun
 31,slovenes,Slovenia,0,noun
 31,Slovenian,Slovenia,0,noun/adjective
-31,slovenians,Slovenia,0,noun
+31,Slovenians,Slovenia,0,noun
 31,Slt,Slt,1,proper noun
 31,slushies,slushies,1,noun/verb
 31,Slusho,Slusho,1,proper noun
@@ -100047,8 +100047,8 @@ Level,Word,Headword,Headword_flag,POS
 31,solway,solway,1,noun/adverb
 31,solzhenitsyn,solzhenitsyn,1,noun
 31,Somalia,Somalia,1,noun
-31,somali,Somalia,0,noun/adjective
-31,somalis,Somalia,0,noun
+31,Somali,Somalia,0,noun/adjective
+31,Somalis,Somalia,0,noun
 31,somaliland,somaliland,1,noun/verb
 31,somboon,somboon,1,noun/adjective
 31,somers,somers,1,noun
@@ -100385,7 +100385,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Stephanie,Stephanie,1,proper noun
 31,stephanotis,stephanotis,1,noun
 31,Stephen,Stephen,1,noun
-31,stephens,stephens,1,noun
+31,Stephens,Stephens,1,noun
 31,stephenson,stephenson,1,noun
 31,stepney,stepney,1,noun
 31,sterland,sterland,1,noun/verb
@@ -100396,7 +100396,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Steve,Steve,1,proper noun
 31,Steven,Steven,1,proper noun
 31,stevenage,stevenage,1,noun
-31,stevens,stevens,1,noun
+31,Stevens,Stevens,1,noun
 31,stevenses,stevenses,1,noun
 31,stevenson,stevenson,1,noun
 31,Stevick,Stevick,1,proper noun
@@ -100560,7 +100560,7 @@ Level,Word,Headword,Headword_flag,POS
 31,suchet,suchet,1,adjective
 31,Suchinda,Suchinda,1,proper noun
 31,Sudan,Sudan,1,noun
-31,sudanese,Sudan,0,noun/adjective
+31,Sudanese,Sudan,0,noun/adjective
 31,sudbury,sudbury,1,noun
 31,sue,sue,1,noun/verb
 31,suez,suez,1,noun
@@ -100613,7 +100613,7 @@ Level,Word,Headword,Headword_flag,POS
 31,sunley,sunley,1,noun
 31,sunman,sunman,1,noun/verb
 31,Sunni,Sunni,1,noun
-31,sunnis,Sunni,0,noun
+31,Sunnis,Sunni,0,noun
 31,sunningdale,sunningdale,1,noun
 31,sunnyvale,sunnyvale,1,noun
 31,sunselect,sunselect,1,verb/adjective
@@ -100728,7 +100728,7 @@ Level,Word,Headword,Headword_flag,POS
 31,swithland,swithland,1,noun/verb
 31,switowski,switowski,1,noun/verb
 31,Switzerland,Switzerland,1,noun
-31,swiss,Switzerland,0,noun/adjective
+31,Swiss,Switzerland,0,noun/adjective
 31,Sybase,Sybase,1,proper noun
 31,sybert,sybert,1,noun
 31,Sybil,Sybil,1,proper noun
@@ -100757,8 +100757,8 @@ Level,Word,Headword,Headword_flag,POS
 31,synoptics,synoptics,1,noun
 31,syracuse,syracuse,1,noun
 31,Syria,Syria,1,noun
-31,syrian,Syria,0,noun/adjective
-31,syrians,Syria,0,noun
+31,Syrian,Syria,0,noun/adjective
+31,Syrians,Syria,0,noun
 31,szechwan,szechwan,1,noun
 31,tabatinga,tabatinga,1,noun
 31,Tabb,Tabb,1,proper noun
@@ -100786,7 +100786,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Taheb,Taheb,1,proper noun
 31,Taher,Taher,1,proper noun
 31,tahiti,tahiti,1,noun
-31,tahitian,tahitian,1,noun/adjective
+31,Tahitian,Tahitian,1,noun/adjective
 31,Tahoe,Tahoe,1,proper noun
 31,Tahuri,Tahuri,1,proper noun
 31,tai,tai,1,noun/adjective
@@ -100799,7 +100799,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Tait,Tait,1,proper noun
 31,taittinger,taittinger,1,noun
 31,Taiwan,Taiwan,1,noun
-31,taiwanese,Taiwan,0,noun/adjective
+31,Taiwanese,Taiwan,0,noun/adjective
 31,Taj,Taj,1,proper noun
 31,Tajik,Tajik,1,noun
 31,Tajikistan,Tajikistan,1,noun
@@ -100848,8 +100848,8 @@ Level,Word,Headword,Headword_flag,POS
 31,tameside,tameside,1,noun/verb/adjective
 31,Tamiami,Tamiami,1,proper noun
 31,tamihana,tamihana,1,noun
-31,Tamil,Tamil,1,noun/adjective
-31,tamils,Tamil,0,noun
+31,tamil,tamil,1,noun/adjective
+31,tamils,tamil,0,noun
 31,tamland,tamland,1,noun/verb
 31,tammany,tammany,1,noun
 31,Tammi,Tammi,1,proper noun
@@ -100885,8 +100885,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Tanu,Tanu,1,proper noun
 31,Tanya,Tanya,1,proper noun
 31,Tanzania,Tanzania,1,noun
-31,tanzanian,Tanzania,0,noun/adjective
-31,tanzanians,Tanzania,0,noun
+31,Tanzanian,Tanzania,0,noun/adjective
+31,Tanzanians,Tanzania,0,noun
 31,tao,tao,1,noun
 31,Taoism,tao,0,noun
 31,taoist,tao,0,noun/adjective
@@ -100937,9 +100937,9 @@ Level,Word,Headword,Headword_flag,POS
 31,tasmanian,tasmanian,1,adjective
 31,Tass,Tass,1,proper noun
 31,Tata,Tata,1,proper noun
-31,tatar,tatar,1,noun
-31,tatars,tatar,0,noun
-31,tatarstan,tatar,0,noun
+31,Tatar,Tatar,1,noun
+31,Tatars,Tatar,0,noun
+31,tatarstan,Tatar,0,noun
 31,tate,tate,1,noun
 31,tatham,tatham,1,noun/verb
 31,tatiana,tatiana,1,noun
@@ -101094,7 +101094,7 @@ Level,Word,Headword,Headword_flag,POS
 31,thadious,thadious,1,adjective
 31,Thai,Thai,1,noun/adjective
 31,Thailand,Thai,0,noun
-31,thais,Thai,0,noun
+31,Thais,Thai,0,noun
 31,Thakhek,Thakhek,1,proper noun
 31,Thakre,Thakre,1,proper noun
 31,Thakur,Thakur,1,proper noun
@@ -101219,7 +101219,7 @@ Level,Word,Headword,Headword_flag,POS
 31,tiberius,tiberius,1,noun
 31,tibet,tibet,1,noun
 31,Tibetan,tibet,0,noun/adjective
-31,tibetans,tibet,0,noun
+31,Tibetans,tibet,0,noun
 31,tibs,tibs,1,noun
 31,tidelands,tidelands,1,noun
 31,tidwell,tidwell,1,noun/verb/adjective/adverb
@@ -101399,7 +101399,7 @@ Level,Word,Headword,Headword_flag,POS
 31,tompkins,tompkins,1,noun
 31,tonbridge,tonbridge,1,noun/verb
 31,Tonga,Tonga,1,noun
-31,tongan,tongan,1,noun/adjective
+31,Tongan,Tongan,1,noun/adjective
 31,Tongariro,Tongariro,1,proper noun
 31,Toni,Toni,1,proper noun
 31,Tonka,Tonka,1,proper noun
@@ -101616,7 +101616,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Tshombe,Tshombe,1,proper noun
 31,Tsiolkovskii,Tsiolkovskii,1,proper noun
 31,tsitouris,tsitouris,1,noun
-31,tsongas,tsongas,1,noun
+31,Tsongas,Tsongas,1,noun
 31,Tsu,Tsu,1,proper noun
 31,Tsui,Tsui,1,proper noun
 31,tualatin,tualatin,1,noun/adjective
@@ -101666,8 +101666,8 @@ Level,Word,Headword,Headword_flag,POS
 31,tung,tung,1,noun
 31,tunis,tunis,1,noun
 31,Tunisia,Tunisia,1,noun
-31,tunisian,Tunisia,0,noun/adjective
-31,tunisians,Tunisia,0,noun
+31,Tunisian,Tunisia,0,noun/adjective
+31,Tunisians,Tunisia,0,noun
 31,tunkalow,tunkalow,1,noun/verb/adjective/adverb
 31,Tunku,Tunku,1,proper noun
 31,tunney,tunney,1,noun
@@ -101784,8 +101784,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Uefa,Uefa,1,proper noun
 31,Uffizi,Uffizi,1,proper noun
 31,Uganda,Uganda,1,noun
-31,ugandan,Uganda,0,noun/adjective
-31,ugandans,Uganda,0,noun
+31,Ugandan,Uganda,0,noun/adjective
+31,Ugandans,Uganda,0,noun
 31,Ugt,Ugt,1,proper noun
 31,Uhles,Uhles,1,proper noun
 31,Uhry,Uhry,1,proper noun
@@ -101797,7 +101797,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Ukcc,Ukcc,1,proper noun
 31,Ukraine,Ukraine,1,noun
 31,Ukrainian,Ukraine,0,noun/adjective
-31,ukrainians,Ukraine,0,noun
+31,Ukrainians,Ukraine,0,noun
 31,ulaganathan,ulaganathan,1,noun
 31,Ulan,Ulan,1,proper noun
 31,Ulani,Ulani,1,proper noun
@@ -101870,8 +101870,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Urry,Urry,1,proper noun
 31,Ursula,Ursula,1,proper noun
 31,Uruguay,Uruguay,1,noun
-31,uruguayan,Uruguay,0,noun/adjective
-31,uruguayans,Uruguay,0,noun
+31,Uruguayan,Uruguay,0,noun/adjective
+31,Uruguayans,Uruguay,0,noun
 31,Urville,Urville,1,proper noun
 31,Urwick,Urwick,1,proper noun
 31,Usa,Usa,1,noun
@@ -102042,8 +102042,8 @@ Level,Word,Headword,Headword_flag,POS
 31,veneto,veneto,1,noun
 31,venezia,venezia,1,noun
 31,Venezuela,Venezuela,1,noun
-31,venezuelan,Venezuela,0,noun/adjective
-31,venezuelans,Venezuela,0,noun
+31,Venezuelan,Venezuela,0,noun/adjective
+31,Venezuelans,Venezuela,0,noun
 31,Vengsarkar,Vengsarkar,1,proper noun
 31,venice,venice,1,noun
 31,venkatarama,venkatarama,1,noun
@@ -102145,7 +102145,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Vieth,Vieth,1,proper noun
 31,Vietnam,Vietnam,1,noun
 31,Vietnamese,Vietnam,0,noun/adjective
-31,vietnams,vietnams,1,noun
+31,Vietnams,Vietnams,1,noun
 31,Vieux,Vieux,1,proper noun
 31,Vigo,Vigo,1,proper noun
 31,Vigot,Vigot,1,proper noun
@@ -102354,9 +102354,9 @@ Level,Word,Headword,Headword_flag,POS
 31,Waldorf,Waldorf,1,proper noun
 31,waldron,waldron,1,noun
 31,wales,wales,1,noun
-31,welsh,wales,0,noun/verb/adjective
-31,welshman,wales,0,noun
-31,welshmen,wales,0,noun
+31,Welsh,wales,0,noun/verb/adjective
+31,Welshman,wales,0,noun
+31,Welshmen,wales,0,noun
 31,walesa,walesa,1,noun
 31,walford,walford,1,noun/verb
 31,walham,walham,1,noun/verb
@@ -102386,7 +102386,7 @@ Level,Word,Headword,Headword_flag,POS
 31,walsingham,walsingham,1,noun/verb
 31,Walt,Walt,1,proper noun
 31,Walter,Walter,1,noun
-31,walters,walters,1,noun
+31,Walters,Walters,1,noun
 31,waltham,waltham,1,noun/verb
 31,walthamstow,walthamstow,1,verb
 31,Walther,Walther,1,proper noun
@@ -102777,7 +102777,7 @@ Level,Word,Headword,Headword_flag,POS
 31,Willi,Willi,1,proper noun
 31,William,William,1,proper noun
 31,Williamniskanen,Williamniskanen,1,proper noun
-31,williams,williams,1,noun
+31,Williams,Williams,1,noun
 31,williamsburg,williamsburg,1,noun
 31,williamson,williamson,1,noun
 31,Willie,Willie,1,noun/verb
@@ -102927,7 +102927,7 @@ Level,Word,Headword,Headword_flag,POS
 31,wollstonecraft,wollstonecraft,1,noun
 31,Wollt,Wollt,1,proper noun
 31,wolodarsky,wolodarsky,1,noun/verb
-31,wolof,wolof,1,noun
+31,Wolof,Wolof,1,noun
 31,wolseley,wolseley,1,noun
 31,Wolsey,Wolsey,1,proper noun
 31,wolski,wolski,1,noun/verb
@@ -103209,7 +103209,7 @@ Level,Word,Headword,Headword_flag,POS
 31,yorkists,yorkist,0,noun
 31,yorks,yorks,1,noun
 31,yorkshire,yorkshire,1,noun
-31,yoruba,yoruba,1,noun
+31,Yoruba,Yoruba,1,noun
 31,yosemite,yosemite,1,noun
 31,yoshida,yoshida,1,noun
 31,Yoshihiro,Yoshihiro,1,proper noun
@@ -103277,8 +103277,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Zak,Zak,1,proper noun
 31,Zaki,Zaki,1,proper noun
 31,Zambia,Zambia,1,noun
-31,zambian,Zambia,0,noun/adjective
-31,zambians,Zambia,0,noun
+31,Zambian,Zambia,0,noun/adjective
+31,Zambians,Zambia,0,noun
 31,zamboni,zamboni,1,noun
 31,zamora,zamora,1,noun
 31,Zamzam,Zamzam,1,proper noun
@@ -103372,8 +103372,8 @@ Level,Word,Headword,Headword_flag,POS
 31,Ziggy,Ziggy,1,proper noun
 31,zigler,zigler,1,noun
 31,Zimbabwe,Zimbabwe,1,noun
-31,zimbabwean,Zimbabwe,0,noun/adjective
-31,zimbabweans,Zimbabwe,0,noun
+31,Zimbabwean,Zimbabwe,0,noun/adjective
+31,Zimbabweans,Zimbabwe,0,noun
 31,zimmer,zimmer,1,noun
 31,zimmerman,zimmerman,1,noun
 31,zimmermann,zimmermann,1,noun
@@ -103413,8 +103413,8 @@ Level,Word,Headword,Headword_flag,POS
 31,zuckerman,zuckerman,1,noun/verb
 31,Zuleika,Zuleika,1,proper noun
 31,Zulfiqar,Zulfiqar,1,proper noun
-31,zulu,zulu,1,noun
-31,zulus,zulu,0,noun
+31,Zulu,Zulu,1,noun
+31,Zulus,Zulu,0,noun
 31,Zurawik,Zurawik,1,proper noun
 31,Zurcher,Zurcher,1,proper noun
 31,Zuri,Zuri,1,proper noun
@@ -105530,10 +105530,10 @@ Level,Word,Headword,Headword_flag,POS
 33,enamelware,enamelware,1,noun
 33,endnote,endnote,1,noun/verb
 33,endnotes,endnote,0,verb
-33,englishman,englishman,1,noun
-33,englishmen,englishman,0,noun
-33,englishwoman,englishman,0,noun
-33,englishwomen,englishman,0,noun
+33,Englishman,Englishman,1,noun
+33,Englishmen,Englishman,0,noun
+33,Englishwoman,Englishman,0,noun
+33,Englishwomen,Englishman,0,noun
 33,entranceway,entranceway,1,noun
 33,entranceways,entranceway,0,noun
 33,entryway,entryway,1,noun
@@ -106727,10 +106727,10 @@ Level,Word,Headword,Headword_flag,POS
 33,inroads,inroad,0,noun
 33,inservice,inservice,1,noun
 33,insomuch,insomuch,1,adverb
-33,irishman,irishman,1,noun
-33,irishmen,irishman,0,noun
-33,irishwoman,irishman,0,noun
-33,irishwomen,irishman,0,noun
+33,Irishman,Irishman,1,noun
+33,Irishmen,Irishman,0,noun
+33,Irishwoman,Irishman,0,noun
+33,Irishwomen,Irishman,0,noun
 33,ironclad,ironclad,1,noun/adjective
 33,ironclads,ironclad,0,noun
 33,ironman,ironman,1,noun
@@ -108290,8 +108290,8 @@ Level,Word,Headword,Headword_flag,POS
 33,scorekeepers,scorekeeper,0,noun
 33,scoreline,scoreline,1,verb
 33,scorelines,scoreline,0,verb
-33,scotswoman,scotswoman,1,noun
-33,scotswomen,scotswoman,0,noun
+33,Scotswoman,Scotswoman,1,noun
+33,Scotswomen,Scotswoman,0,noun
 33,scottishpower,scottishpower,1,noun/verb
 33,scrapbook,scrapbook,1,noun
 33,scrapbooks,scrapbook,0,noun
@@ -109372,7 +109372,7 @@ Level,Word,Headword,Headword_flag,POS
 33,textbook,textbook,1,noun/adjective
 33,textbooks,textbook,0,noun
 33,Thanksgiving,Thanksgiving,1,noun
-33,thanksgivings,Thanksgiving,0,noun
+33,Thanksgivings,Thanksgiving,0,noun
 33,theatergoer,theatergoer,1,noun
 33,theatergoers,theatergoer,0,noun
 33,theatregoer,theatergoer,0,noun
@@ -110377,7 +110377,7 @@ Level,Word,Headword,Headword_flag,POS
 34,apc,apc,1,noun
 34,Api,Api,1,proper noun
 34,Apo,Apo,1,proper noun
-34,aprs,aprs,1,noun
+34,Aprs,Aprs,1,noun
 34,Aps,Aps,1,proper noun
 34,Arcos,Arcos,1,proper noun
 34,Arg,Arg,1,proper noun
@@ -110799,7 +110799,7 @@ Level,Word,Headword,Headword_flag,POS
 34,Idb,Idb,1,proper noun
 34,Ide,Ide,1,proper noun
 34,Idg,Idg,1,proper noun
-34,ido,ido,1,noun
+34,Ido,Ido,1,noun
 34,ie,ie,1,noun/adverb
 34,Iea,Iea,1,proper noun
 34,Ieee,Ieee,1,proper noun
@@ -111244,7 +111244,7 @@ Level,Word,Headword,Headword_flag,POS
 34,Sadcc,Sadcc,1,proper noun
 34,Sae,Sae,1,proper noun
 34,Saf,Saf,1,proper noun
-34,sats,sats,1,noun
+34,Sats,Sats,1,noun
 34,Sbc,Sbc,1,proper noun
 34,Sbk,Sbk,1,proper noun
 34,sbs,sbs,1,noun
@@ -111384,7 +111384,7 @@ Level,Word,Headword,Headword_flag,POS
 34,Undp,Undp,1,proper noun
 34,Unip,Unip,1,proper noun
 34,Unprofor,Unprofor,1,proper noun
-34,uns,uns,1,noun
+34,Uns,Uns,1,noun
 34,Upvc,Upvc,1,proper noun
 34,Upvcs,Upvc,0,proper noun
 34,Urc,Urc,1,proper noun
