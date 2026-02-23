@@ -45,16 +45,54 @@ countries_regions = {
     "switzerland", "syria", "taiwan", "tajikistan", "tanzania", "thailand", "togo", "tonga",
     "trinidad", "tunisia", "turkey", "turkmenistan", "tuvalu", "uganda", "ukraine", "united arab emirates",
     "united kingdom", "united states", "uruguay", "uzbekistan", "vanuatu", "vatican", "venezuela",
-    "vietnam", "yemen", "zambia", "zimbabwe", "usa", "uk", "ussr", "eu", "un", "nato", "asean",
-    "american", "british", "english", "french", "german", "italian", "japanese", "chinese", "russian",
-    "spanish", "indian", "arabic", "portuguese", "dutch", "greek", "latin", "hebrew", "hindi",
-    "swahili", "persian", "korean", "vietnamese", "thai", "turkish", "swedish", "danish", "norwegian",
-    "finnish", "polish", "hungarian", "czech", "slovak", "romanian", "bulgarian", "serbian", "croatian",
-    "bosnian", "albanian", "macedonian", "slovenian", "ukrainian", "belarusian", "estonian", "latvian",
-    "lithuanian", "georgian", "armenian", "azerbaijani", "kazakh", "uzbek", "turkmen", "tajik", "kyrgyz",
-    "mongolian", "tibetan", "nepali", "bengali", "tamil", "telugu", "kannada", "malayalam", "sinhala",
-    "urdu", "punjabi", "gujarati", "marathi", "odia", "assamese", "maithili", "santali", "bodo", "dogri",
-    "kashmiri", "konkani", "manipuri", "sanskrit", "sindhi"
+    "vietnam", "yemen", "zambia", "zimbabwe", "usa", "uk", "ussr", "eu", "un", "nato", "asean"
+}
+
+nationalities_languages = {
+    # Demonyms
+    "afghan", "albanian", "algerian", "american", "andorran", "angolan", "antiguan", "argentine", "argentinean", "armenian",
+    "australian", "austrian", "azerbaijani", "bahamian", "bahraini", "bangladeshi", "barbadian", "belarusian", "belgian",
+    "belizean", "beninese", "bhutanese", "bolivian", "bosnian", "batswana", "brazilian", "british", "bruneian", "bulgarian",
+    "burkinabe", "burmese", "burundian", "cambodian", "cameroonian", "canadian", "cape verdean", "central african", "chadian",
+    "chilean", "chinese", "colombian", "comoran", "congolese", "costa rican", "croatian", "cuban", "cypriot", "czech",
+    "danish", "djiboutian", "dominican", "dutch", "east timorese", "ecuadorean", "egyptian", "emirati", "english",
+    "equatorial guinean", "eritrean", "estonian", "ethiopian", "fijian", "filipino", "finnish", "french", "gabonese",
+    "gambian", "georgian", "german", "ghanaian", "greek", "grenadian", "guatemalan", "guinea-bissauan", "guinean",
+    "guyanese", "haitian", "herzegovinian", "honduran", "hungarian", "i-kiribati", "icelandic", "indian", "indonesian",
+    "iranian", "iraqi", "irish", "israeli", "italian", "ivorian", "jamaican", "japanese", "jordanian", "kazakhstani",
+    "kenyan", "kittian", "nevisian", "kuwaiti", "kyrgyz", "laotian", "latvian", "lebanese", "liberian", "libyan",
+    "liechtensteiner", "lithuanian", "luxembourger", "macedonian", "malagasy", "malawian", "malaysian", "maldivian",
+    "malian", "maltese", "marshallese", "mauritanian", "mauritian", "mexican", "micronesian", "moldovan", "monegasque",
+    "mongolian", "montenegrin", "moroccan", "motswana", "mozambican", "namibian", "nauruan", "nepalese", "new zealander",
+    "ni-vanuatu", "nicaraguan", "nigerian", "nigerien", "north korean", "northern irish", "norwegian", "omani", "pakistani",
+    "palauan", "palestinian", "panamanian", "papua new guinean", "paraguayan", "peruvian", "polish", "portuguese", "qatari",
+    "romanian", "russian", "rwandan", "saint lucian", "salvadoran", "samoan", "san marinese", "sao tomean", "saudi",
+    "scottish", "senegalese", "serbian", "seychellois", "sierra leonean", "singaporean", "slovak", "slovenian",
+    "solomon islander", "somali", "south african", "south korean", "spanish", "sri lankan", "sudanese", "surinamer",
+    "swazi", "swedish", "swiss", "syrian", "taiwanese", "tajik", "tanzanian", "thai", "togolese", "tongan", "trinidadian",
+    "tobagonian", "tunisian", "turkish", "tuvaluan", "ugandan", "ukrainian", "uruguayan", "uzbekistani", "venezuelan",
+    "vietnamese", "welsh", "yemeni", "zambian", "zimbabwean",
+    # Languages (checking for overlaps, adding unique ones)
+    "abkhazian", "afar", "afrikaans", "akan", "amharic", "arabic", "aragonese", "assamese", "avaric", "avestan", "aymara",
+    "bambara", "bashkir", "basque", "bengali", "bihari", "bislama", "breton", "catalan", "chamorro", "chechen", "chichewa",
+    "chuvash", "cornish", "corsican", "cree", "divehi", "dzongkha", "esperanto", "ewe", "faroese", "fulah", "galician",
+    "ganda", "guarani", "gujarati", "hausa", "hebrew", "herero", "hindi", "hiri motu", "ido", "igbo", "interlingua",
+    "interlingue", "inuktitut", "inupiaq", "javanese", "kalaallisut", "kannada", "kanuri", "kashmiri", "kazakh", "khmer",
+    "kikuyu", "kinyarwanda", "kirghiz", "komi", "kongo", "korean", "kurdish", "kwanyama", "lao", "latin", "limburgish",
+    "lingala", "luba-katanga", "luxembourgish", "malay", "malayalam", "manx", "maori", "marathi", "moldavian", "nauru",
+    "navajo", "ndonga", "nepali", "north ndebele", "northern sami", "nuosu", "occitan", "ojibwa", "oriya", "oromo",
+    "ossetian", "pali", "pashto", "persian", "punjabi", "quechua", "romansh", "rundi", "sango", "sanskrit", "sardinian",
+    "scottish gaelic", "shona", "sichuan yi", "sindhi", "sinhala", "south ndebele", "southern sotho", "sundanese",
+    "swahili", "swati", "tagalog", "tahitian", "tatar", "telugu", "tibetan", "tigrinya", "tonga", "tsonga", "tswana",
+    "turkmen", "twi", "uighur", "urdu", "uyghur", "uzbek", "venda", "volapük", "walloon", "western frisian", "wolof",
+    "xhosa", "yiddish", "yoruba", "zhuang", "zulu",
+    # Specific people (singular and irregular plurals)
+    "englishman", "englishwoman", "englishmen", "englishwomen",
+    "frenchman", "frenchwoman", "frenchmen", "frenchwomen",
+    "irishman", "irishwoman", "irishmen", "irishwomen",
+    "scotsman", "scotswoman", "scotsmen", "scotswomen",
+    "dutchman", "dutchwoman", "dutchmen", "dutchwomen",
+    "welshman", "welshwoman", "welshmen", "welshwomen"
 }
 
 cities = {
@@ -126,7 +164,7 @@ blacklist = {
 }
 
 # Combine all lists
-proper_nouns = months | days | holidays | countries_regions | cities | religions | planets | names
+proper_nouns = months | days | holidays | countries_regions | nationalities_languages | cities | religions | planets | names
 
 def should_capitalize(word, pos):
     word_lower = word.lower()
@@ -142,6 +180,12 @@ def should_capitalize(word, pos):
     # Check manual list
     if word_lower in proper_nouns:
         if word_lower in blacklist:
+            return False
+        return True
+
+    # Check plural s (e.g., "Americans" -> "American")
+    if word_lower.endswith('s') and word_lower[:-1] in proper_nouns:
+        if word_lower[:-1] in blacklist:
             return False
         return True
 
